@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Medicament</string>
+    <string name="emptyMessage">Nincs felimsert szöveg.</string>
 </resources>
