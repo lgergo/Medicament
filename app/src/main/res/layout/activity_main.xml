@@ -6,28 +6,41 @@
     android:orientation="vertical"
     tools:context="com.yevsp8.medicament.MainActivity">
 
+
     <SurfaceView
         android:id="@+id/surfaceView"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="3" />
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/pauseRecognitionButton"
-        android:text="Állj"></androidx.appcompat.widget.AppCompatButton>
-
-    <TextView
-        android:id="@+id/textView"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_margin="8dp"
         android:layout_weight="2"
-        android:gravity="center_horizontal"
-        android:textStyle="bold"
-        android:text="@string/emptyMessage"
-        android:textColor="@android:color/black"
-        android:textSize="20sp" />
+        android:orientation="vertical">
 
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/pauseRecognitionButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Állj" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycleView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="8dp"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:text="@string/emptyMessage"
+            android:textColor="@android:color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
 </LinearLayout>

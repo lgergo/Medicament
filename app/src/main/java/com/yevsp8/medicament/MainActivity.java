@@ -14,6 +14,8 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.AppCompatButton;
 import androidx.core.app.ActivityCompat;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.gms.vision.CameraSource;
 import com.google.android.gms.vision.Detector;
@@ -21,6 +23,8 @@ import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +37,11 @@ public class MainActivity extends AppCompatActivity {
     private static final int RequestPermissionID = 111;
     private static boolean IsRecognitionPaused = false;
 
+    private RecyclerView mRecyclerView;
+    private RecyclerView.Adapter mAdapter;
+    private RecyclerView.LayoutManager mLayoutManager;
+    private String recognisedText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -43,9 +52,18 @@ public class MainActivity extends AppCompatActivity {
         pauseButton = findViewById(R.id.pauseRecognitionButton);
         pauseButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                IsRecognitionPaused = !IsRecognitionPaused;
+                pauseButtonOnClick();
             }
         });
+
+        mRecyclerView = findViewById(R.id.recycleView);
+        mRecyclerView.setHasFixedSize(true);
+
+        mLayoutManager = new LinearLayoutManager(this);
+        mRecyclerView.setLayoutManager(mLayoutManager);
+
+        mAdapter = new ResultAdapter(new ArrayList<String>(), true, this);
+        mRecyclerView.setAdapter(mAdapter);
 
         startCameraSource();
     }
@@ -128,25 +146,43 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void receiveDetections(Detector.Detections<TextBlock> detections) {
 
+                    if (!IsRecognitionPaused) {
+                        final SparseArray<TextBlock> items = detections.getDetectedItems();
+                        if (items.size() != 0) {
 
-                    final SparseArray<TextBlock> items = detections.getDetectedItems();
-                    if (items.size() != 0) {
-
-                        textView.post(new Runnable() {
-                            @Override
-                            public void run() {
-                                StringBuilder stringBuilder = new StringBuilder();
-                                for (int i = 0; i < items.size(); i++) {
-                                    TextBlock item = items.valueAt(i);
-                                    stringBuilder.append(item.getValue());
-                                    stringBuilder.append("\n");
+                            textView.post(new Runnable() {
+                                @Override
+                                public void run() {
+                                    StringBuilder stringBuilder = new StringBuilder();
+                                    for (int i = 0; i < items.size(); i++) {
+                                        TextBlock item = items.valueAt(i);
+                                        stringBuilder.append(item.getValue());
+                                        stringBuilder.append("\n");
+                                    }
+                                    textView.setText(stringBuilder.toString());
+                                    recognisedText = stringBuilder.toString();
                                 }
-                                textView.setText(stringBuilder.toString());
-                            }
-                        });
+                            });
+                        }
                     }
                 }
             });
         }
+    }
+
+    public void pauseButtonOnClick() {
+        if (IsRecognitionPaused) {
+            mRecyclerView.setVisibility(View.GONE);
+            textView.setVisibility(View.VISIBLE);
+        } else {
+            String[] textLines = recognisedText.split("\\r?\\n");
+            mAdapter = new ResultAdapter(Arrays.asList(textLines), true, this);
+            mRecyclerView.setAdapter(mAdapter);
+
+            mRecyclerView.setVisibility(View.VISIBLE);
+            textView.setVisibility(View.GONE);
+        }
+
+        IsRecognitionPaused = !IsRecognitionPaused;
     }
 }
