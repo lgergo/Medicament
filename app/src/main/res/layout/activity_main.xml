@@ -23,7 +23,7 @@
             android:id="@+id/pauseRecognitionButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Állj" />
+            android:text="@string/button_stop" />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recycleView"

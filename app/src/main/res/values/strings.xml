@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">MediCam</string>
     <string name="emptyMessage">Nincs felimsert szöveg.</string>
+    <string name="result_title">Válassza ki a listából a megfelelő típust!</string>
+    <string name="button_stop">Állj</string>
 </resources>

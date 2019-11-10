@@ -9,23 +9,32 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 
-public class Utils {
+class Utils {
 
     private static HashMap<String, String> jsonObjects = new HashMap<>();
     private Context context;
     private static final String AssetFileName = "ogyei_gyogyszerek.json";
 
-    public Utils(Context context) {
+    Utils(Context context) {
         this.context = context;
         if (jsonObjects.size() == 0) {
             loadJSONFromAsset();
         }
     }
 
-    public String searchMedicamentIdByName(String name) {
-        return jsonObjects.get(name);
+    ArrayList<String> searchMedicamentIdByName(String name) {
+        ArrayList<String> results = new ArrayList<>();
+        for (Map.Entry<String, String> entries : jsonObjects.entrySet()) {
+            if (entries.getKey().contains(name)) {
+                results.add(entries.getValue());
+            }
+        }
+        return results;
+        //return jsonObjects.get(name.toLowerCase());
     }
 
     private void loadJSONFromAsset() {

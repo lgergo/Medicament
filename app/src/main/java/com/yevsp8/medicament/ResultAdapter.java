@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder> {
@@ -17,22 +18,24 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
     private boolean isClickEnabled;
     private Context context;
     private Utils utils;
+    private String type;
 
-    public static class ViewHolder extends RecyclerView.ViewHolder {
+    static class ViewHolder extends RecyclerView.ViewHolder {
 
-        public TextView listItemView;
+        TextView listItemView;
 
-        public ViewHolder(TextView v) {
+        ViewHolder(TextView v) {
             super(v);
             listItemView = v;
         }
     }
 
-    public ResultAdapter(List<String> myDataset, boolean isClickEnabled, Context context) {
+    ResultAdapter(List<String> myDataset, boolean isClickEnabled, String adapterType, Context context) {
         dataset = myDataset;
         this.isClickEnabled = isClickEnabled;
         this.context = context;
         utils = new Utils(context);
+        this.type = adapterType;
     }
 
     @Override
@@ -45,10 +48,15 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
             vh.listItemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    String clickedName = dataset.get(vh.getAdapterPosition());
-                    String idForName = utils.searchMedicamentIdByName(clickedName);
-                    if (idForName != null && !idForName.isEmpty()) {
-                        openWebPage(idForName);
+                    if (type.equals(Constants.AdapterType_0)) {
+                        String clickedName = dataset.get(vh.getAdapterPosition()).toLowerCase();
+                        ArrayList<String> idResults = utils.searchMedicamentIdByName(clickedName);
+                        Intent i = new Intent(context, ResultActivity.class);
+                        i.putExtra(Constants.Intent_ResultList, idResults);
+                        context.startActivity(i);
+                    }
+                    if (type.equals(Constants.AdapterType_1)) {
+                        openWebPage(dataset.get(vh.getAdapterPosition()));
                     }
                 }
             });
@@ -67,7 +75,7 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
     }
 
 
-    public void openWebPage(String extraUrl) {
+    private void openWebPage(String extraUrl) {
         String url = "https://ogyei.gov.hu/gyogyszeradatbazis&action=show_details&item=";
         url += extraUrl;
         Uri webpage = Uri.parse(url);

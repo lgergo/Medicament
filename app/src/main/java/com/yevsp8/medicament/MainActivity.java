@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
         mLayoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(mLayoutManager);
 
-        mAdapter = new ResultAdapter(new ArrayList<String>(), true, this);
+        mAdapter = new ResultAdapter(new ArrayList<String>(), true, Constants.AdapterType_0, this);
         mRecyclerView.setAdapter(mAdapter);
 
         startCameraSource();
@@ -176,7 +176,7 @@ public class MainActivity extends AppCompatActivity {
             textView.setVisibility(View.VISIBLE);
         } else {
             String[] textLines = recognisedText.split("\\r?\\n");
-            mAdapter = new ResultAdapter(Arrays.asList(textLines), true, this);
+            mAdapter = new ResultAdapter(Arrays.asList(textLines), true, Constants.AdapterType_0, this);
             mRecyclerView.setAdapter(mAdapter);
 
             mRecyclerView.setVisibility(View.VISIBLE);
