@@ -9,39 +9,44 @@ import org.json.JSONObject;
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-class Utils {
+class IOManager {
 
-    private static HashMap<String, String> jsonObjects = new HashMap<>();
+    private static HashMap<String, String> medicaments = new HashMap<>();
+    //private static HashMap<String,String> substances=new HashMap<>();
     private Context context;
-    private static final String AssetFileName = "ogyei_gyogyszerek.json";
 
-    Utils(Context context) {
+    IOManager(Context context) {
         this.context = context;
-        if (jsonObjects.size() == 0) {
-            loadJSONFromAsset();
+        if (medicaments.size() == 0) {
+            loadJsonToMap(Constants.Asset_MedicamentsFileName, "medicaments", medicaments);
         }
+//        if(substances.size()==0) {
+//            loadJsonToMap(Constants.Asset_SubstancesFileName,"substances",substances);
+//        }
     }
 
-    ArrayList<String> searchMedicamentIdByName(String name) {
-        ArrayList<String> results = new ArrayList<>();
-        for (Map.Entry<String, String> entries : jsonObjects.entrySet()) {
+    String getValueByKey(String key) {
+        return medicaments.get(key);
+    }
+
+    HashMap<String, String> searchMedicamentIdByName(String name) {
+        HashMap<String, String> results = new HashMap<>();
+        for (Map.Entry<String, String> entries : medicaments.entrySet()) {
             if (entries.getKey().contains(name)) {
-                results.add(entries.getValue());
+                results.put(entries.getKey(), entries.getValue());
             }
         }
         return results;
-        //return jsonObjects.get(name.toLowerCase());
     }
 
-    private void loadJSONFromAsset() {
+    private void loadJsonToMap(String fileName, String jsonRootObject, HashMap<String, String> map) {
 
         String json;
         try {
-            InputStream is = context.getAssets().open(AssetFileName);
+            InputStream is = context.getAssets().open(fileName);
             int size = is.available();
             byte[] buffer = new byte[size];
             is.read(buffer);
@@ -53,7 +58,7 @@ class Utils {
         }
         try {
             JSONObject obj = new JSONObject(json);
-            JSONArray m_jArry = obj.getJSONArray("medicaments");
+            JSONArray m_jArry = obj.getJSONArray(jsonRootObject);
 
             for (int i = 0; i < m_jArry.length(); i++) {
                 JSONObject jo_inside = m_jArry.getJSONObject(i);
@@ -61,7 +66,7 @@ class Utils {
                 String name = jo_inside.getString("name");
                 String id = jo_inside.getString("id");
 
-                jsonObjects.put(name, id);
+                map.put(name, id);
             }
         } catch (JSONException e) {
             e.printStackTrace();

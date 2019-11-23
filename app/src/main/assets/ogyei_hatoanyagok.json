@@ -1,0 +1,8472 @@
+{
+  "substances": [
+    {
+      "id": "10837",
+      "name": "18F-fluoromethylcholin"
+    },
+    {
+      "id": "7409",
+      "name": "99Molibden / 99mTechnetium"
+    },
+    {
+      "id": "3",
+      "name": "abacavir"
+    },
+    {
+      "id": "5636",
+      "name": "abatacept"
+    },
+    {
+      "id": "10873",
+      "name": "abemaciclib"
+    },
+    {
+      "id": "9344",
+      "name": "abiraterone"
+    },
+    {
+      "id": "5",
+      "name": "acarbose"
+    },
+    {
+      "id": "6",
+      "name": "aceclofenac"
+    },
+    {
+      "id": "7",
+      "name": "acemetacin"
+    },
+    {
+      "id": "2352",
+      "name": "acenocoumarol"
+    },
+    {
+      "id": "9",
+      "name": "acetazolamide"
+    },
+    {
+      "id": "12",
+      "name": "acetylcysteine"
+    },
+    {
+      "id": "14",
+      "name": "acetylsalicylic acid"
+    },
+    {
+      "id": "17",
+      "name": "aciclovir"
+    },
+    {
+      "id": "7410",
+      "name": "Acidu N-(2,6 diethyl)-acetanilido-iminodiaceticum, TECHIDA"
+    },
+    {
+      "id": "7411",
+      "name": "acidum diaethylentriamino pentaaceticum"
+    },
+    {
+      "id": "7412",
+      "name": "acidum methylenediphoshoricum"
+    },
+    {
+      "id": "9501",
+      "name": "Acidum silicicum"
+    },
+    {
+      "id": "18",
+      "name": "acipimox"
+    },
+    {
+      "id": "19",
+      "name": "acitretin"
+    },
+    {
+      "id": "9622",
+      "name": "Aclidinium bromide"
+    },
+    {
+      "id": "2921",
+      "name": "acriflavinium chloride"
+    },
+    {
+      "id": "2215",
+      "name": "adalimumab"
+    },
+    {
+      "id": "23",
+      "name": "adapalene"
+    },
+    {
+      "id": "2367",
+      "name": "adefovir"
+    },
+    {
+      "id": "25",
+      "name": "adenosine"
+    },
+    {
+      "id": "9870",
+      "name": "Adrenaline"
+    },
+    {
+      "id": "9332",
+      "name": "Aetheroleum millefolii"
+    },
+    {
+      "id": "10511",
+      "name": "afamelanotide"
+    },
+    {
+      "id": "10166",
+      "name": "afatinib"
+    },
+    {
+      "id": "5647",
+      "name": "aflibercept"
+    },
+    {
+      "id": "2229",
+      "name": "agalsidase alfa"
+    },
+    {
+      "id": "2137",
+      "name": "agalsidase beta"
+    },
+    {
+      "id": "2305",
+      "name": "agomelatine"
+    },
+    {
+      "id": "4919",
+      "name": "Agrimony"
+    },
+    {
+      "id": "10389",
+      "name": "Ailanthus altissima"
+    },
+    {
+      "id": "28",
+      "name": "alanine"
+    },
+    {
+      "id": "29",
+      "name": "alanyl glutamine"
+    },
+    {
+      "id": "2374",
+      "name": "albendazole"
+    },
+    {
+      "id": "10512",
+      "name": "albiglutide"
+    },
+    {
+      "id": "7413",
+      "name": "albumin macroaggregatum"
+    },
+    {
+      "id": "30",
+      "name": "albumin tannate"
+    },
+    {
+      "id": "10503",
+      "name": "albutrepenonacog alfa"
+    },
+    {
+      "id": "33",
+      "name": "aldesleukin"
+    },
+    {
+      "id": "10697",
+      "name": "alectinib hydrochloride"
+    },
+    {
+      "id": "2146",
+      "name": "alemtuzumab"
+    },
+    {
+      "id": "35",
+      "name": "alendronic acid"
+    },
+    {
+      "id": "10777",
+      "name": "alfa-Tocopheryl acetate"
+    },
+    {
+      "id": "6362",
+      "name": "alfa-Tocopheryl acetetate concentrate (powder form)"
+    },
+    {
+      "id": "37",
+      "name": "alfacalcidol"
+    },
+    {
+      "id": "39",
+      "name": "alfuzosin"
+    },
+    {
+      "id": "7376",
+      "name": "alglucosidase alfa"
+    },
+    {
+      "id": "10513",
+      "name": "alipogene tiparvovec"
+    },
+    {
+      "id": "10403",
+      "name": "alirocumab"
+    },
+    {
+      "id": "2309",
+      "name": "aliskiren"
+    },
+    {
+      "id": "2310",
+      "name": "alitretinoin"
+    },
+    {
+      "id": "4801",
+      "name": "allantoin"
+    },
+    {
+      "id": "2241",
+      "name": "allergén kivonat"
+    },
+    {
+      "id": "10724",
+      "name": "Allogeneic T cells genetically modified with a retroviral vector encoding for a truncated form of the humaan low affinity nerve growth factor receptor  (?LNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK MUT2)"
+    },
+    {
+      "id": "42",
+      "name": "allopurinol"
+    },
+    {
+      "id": "2336",
+      "name": "alma pektin"
+    },
+    {
+      "id": "6543",
+      "name": "aloe vera"
+    },
+    {
+      "id": "7389",
+      "name": "alogliptin"
+    },
+    {
+      "id": "10743",
+      "name": "alpha pinene"
+    },
+    {
+      "id": "6728",
+      "name": "alpha-tocopheryl acetate concentrate (powder form)"
+    },
+    {
+      "id": "44",
+      "name": "alprazolam"
+    },
+    {
+      "id": "46",
+      "name": "alprostadil"
+    },
+    {
+      "id": "47",
+      "name": "alteplase"
+    },
+    {
+      "id": "4136",
+      "name": "aluminium acetate"
+    },
+    {
+      "id": "48",
+      "name": "aluminium acetotartrate"
+    },
+    {
+      "id": "8839",
+      "name": "aluminium acetotartrate boric acid solution"
+    },
+    {
+      "id": "49",
+      "name": "aluminium chloride hexahydrate"
+    },
+    {
+      "id": "54",
+      "name": "aluminium oxide"
+    },
+    {
+      "id": "50",
+      "name": "aluminium oxide, hydrated"
+    },
+    {
+      "id": "56",
+      "name": "alverine"
+    },
+    {
+      "id": "57",
+      "name": "amantadine"
+    },
+    {
+      "id": "59",
+      "name": "ambenonium chloride"
+    },
+    {
+      "id": "2311",
+      "name": "ambrisentan"
+    },
+    {
+      "id": "9508",
+      "name": "Ambrosia artemisifolia"
+    },
+    {
+      "id": "60",
+      "name": "ambroxol"
+    },
+    {
+      "id": "5198",
+      "name": "ambroxol hydrochloride"
+    },
+    {
+      "id": "8684",
+      "name": "amidotrizoic acid"
+    },
+    {
+      "id": "10514",
+      "name": "amifampridine phosphate"
+    },
+    {
+      "id": "64",
+      "name": "amikacin"
+    },
+    {
+      "id": "65",
+      "name": "amiloride"
+    },
+    {
+      "id": "66",
+      "name": "amino acids"
+    },
+    {
+      "id": "68",
+      "name": "aminocaproic acid"
+    },
+    {
+      "id": "2413",
+      "name": "aminolevulinic acid hydrochloride"
+    },
+    {
+      "id": "70",
+      "name": "aminophenazone"
+    },
+    {
+      "id": "72",
+      "name": "aminophylline"
+    },
+    {
+      "id": "1217",
+      "name": "aminosalicylic acid"
+    },
+    {
+      "id": "73",
+      "name": "amiodarone"
+    },
+    {
+      "id": "4807",
+      "name": "amiodarone hydrochloride"
+    },
+    {
+      "id": "74",
+      "name": "amisulpride"
+    },
+    {
+      "id": "75",
+      "name": "amitriptyline"
+    },
+    {
+      "id": "76",
+      "name": "amlodipine"
+    },
+    {
+      "id": "4627",
+      "name": "amlodipine besilate"
+    },
+    {
+      "id": "10115",
+      "name": "ammonium molybdate tetrahydrate"
+    },
+    {
+      "id": "9289",
+      "name": "ammonium vanadate"
+    },
+    {
+      "id": "82",
+      "name": "amorolfine"
+    },
+    {
+      "id": "83",
+      "name": "amoxicillin"
+    },
+    {
+      "id": "4575",
+      "name": "amoxicillin trihydrate"
+    },
+    {
+      "id": "86",
+      "name": "amphotericin B"
+    },
+    {
+      "id": "87",
+      "name": "ampicillin"
+    },
+    {
+      "id": "2418",
+      "name": "amprenavir"
+    },
+    {
+      "id": "91",
+      "name": "amylmetacresol"
+    },
+    {
+      "id": "2181",
+      "name": "anagrelide"
+    },
+    {
+      "id": "8084",
+      "name": "anagrelide hydrochloride"
+    },
+    {
+      "id": "2421",
+      "name": "anakinra"
+    },
+    {
+      "id": "92",
+      "name": "anastrozole"
+    },
+    {
+      "id": "10947",
+      "name": "andexanet alfa"
+    },
+    {
+      "id": "4138",
+      "name": "anethole"
+    },
+    {
+      "id": "10746",
+      "name": "anetol"
+    },
+    {
+      "id": "4384",
+      "name": "angelica root"
+    },
+    {
+      "id": "5612",
+      "name": "anidulafungin"
+    },
+    {
+      "id": "4576",
+      "name": "anise oil"
+    },
+    {
+      "id": "5090",
+      "name": "aniseed"
+    },
+    {
+      "id": "2430",
+      "name": "antazoline"
+    },
+    {
+      "id": "4222",
+      "name": "antithrombin III"
+    },
+    {
+      "id": "5660",
+      "name": "antithrombine alfa"
+    },
+    {
+      "id": "10929",
+      "name": "apalutamide"
+    },
+    {
+      "id": "9518",
+      "name": "Apis mellifera"
+    },
+    {
+      "id": "5661",
+      "name": "apixaban"
+    },
+    {
+      "id": "96",
+      "name": "apomorphine hydrochloride hemihydrate"
+    },
+    {
+      "id": "10516",
+      "name": "apremilast"
+    },
+    {
+      "id": "2437",
+      "name": "aprepitant"
+    },
+    {
+      "id": "10371",
+      "name": "aprított tökmag"
+    },
+    {
+      "id": "98",
+      "name": "aprotinin"
+    },
+    {
+      "id": "4803",
+      "name": "aprotinin concentrated solution"
+    },
+    {
+      "id": "4059",
+      "name": "arcitumomab"
+    },
+    {
+      "id": "9521",
+      "name": "Argentum metallicum"
+    },
+    {
+      "id": "3948",
+      "name": "arginine"
+    },
+    {
+      "id": "2445",
+      "name": "argipressin"
+    },
+    {
+      "id": "2446",
+      "name": "aripiprazole"
+    },
+    {
+      "id": "9522",
+      "name": "Aristolochia clematitis"
+    },
+    {
+      "id": "5303",
+      "name": "Arnica tincture"
+    },
+    {
+      "id": "2447",
+      "name": "arsenic trioxide"
+    },
+    {
+      "id": "2451",
+      "name": "artenimol"
+    },
+    {
+      "id": "100",
+      "name": "articaine"
+    },
+    {
+      "id": "102",
+      "name": "artifical tears"
+    },
+    {
+      "id": "3995",
+      "name": "ascorbic acid"
+    },
+    {
+      "id": "5665",
+      "name": "asenapine"
+    },
+    {
+      "id": "10498",
+      "name": "asfotase alfa"
+    },
+    {
+      "id": "104",
+      "name": "asparaginase"
+    },
+    {
+      "id": "970",
+      "name": "aspartic acid"
+    },
+    {
+      "id": "10369",
+      "name": "ataluren"
+    },
+    {
+      "id": "4093",
+      "name": "atazanavir"
+    },
+    {
+      "id": "8564",
+      "name": "atazanavir sulphate"
+    },
+    {
+      "id": "106",
+      "name": "atenolol"
+    },
+    {
+      "id": "10761",
+      "name": "atezolizumab"
+    },
+    {
+      "id": "2456",
+      "name": "atomoxetine"
+    },
+    {
+      "id": "110",
+      "name": "atorvastatin"
+    },
+    {
+      "id": "7489",
+      "name": "atorvastatin calcium"
+    },
+    {
+      "id": "7490",
+      "name": "atorvastatin calcium hydrate"
+    },
+    {
+      "id": "111",
+      "name": "atosiban"
+    },
+    {
+      "id": "10569",
+      "name": "atosiban acetate"
+    },
+    {
+      "id": "2457",
+      "name": "atovaquone"
+    },
+    {
+      "id": "4345",
+      "name": "atracurium besilate"
+    },
+    {
+      "id": "9529",
+      "name": "Atropa belladonna"
+    },
+    {
+      "id": "113",
+      "name": "atropine"
+    },
+    {
+      "id": "10725",
+      "name": "Autologus CD34+ enriched cells fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA CDNA  sequence"
+    },
+    {
+      "id": "10164",
+      "name": "avanafil"
+    },
+    {
+      "id": "10962",
+      "name": "avatrombopag"
+    },
+    {
+      "id": "10773",
+      "name": "avelumab"
+    },
+    {
+      "id": "10491",
+      "name": "avibactam"
+    },
+    {
+      "id": "10884",
+      "name": "axicabtagene ciloleucel"
+    },
+    {
+      "id": "5669",
+      "name": "axitinib"
+    },
+    {
+      "id": "5671",
+      "name": "azacitidine"
+    },
+    {
+      "id": "118",
+      "name": "azathioprine"
+    },
+    {
+      "id": "119",
+      "name": "azelaic acid"
+    },
+    {
+      "id": "120",
+      "name": "azelastine"
+    },
+    {
+      "id": "4540",
+      "name": "azelastine hydrochloride"
+    },
+    {
+      "id": "9698",
+      "name": "azilsartan medoxomil"
+    },
+    {
+      "id": "10862",
+      "name": "Azilsartan medoxomil potassium"
+    },
+    {
+      "id": "121",
+      "name": "azithromycin"
+    },
+    {
+      "id": "2465",
+      "name": "aztreonam"
+    },
+    {
+      "id": "124",
+      "name": "B vitamins"
+    },
+    {
+      "id": "9542",
+      "name": "Bacillus clausi spóra, többszörösen rezisztens"
+    },
+    {
+      "id": "126",
+      "name": "bacitracin"
+    },
+    {
+      "id": "128",
+      "name": "baclofen"
+    },
+    {
+      "id": "2253",
+      "name": "baktérium liofilizátum"
+    },
+    {
+      "id": "9388",
+      "name": "Baptisiae tinctoriae radix"
+    },
+    {
+      "id": "10699",
+      "name": "baricitinib"
+    },
+    {
+      "id": "134",
+      "name": "barium sulfate"
+    },
+    {
+      "id": "2340",
+      "name": "basiliximab"
+    },
+    {
+      "id": "5676",
+      "name": "bazedoxifene"
+    },
+    {
+      "id": "10571",
+      "name": "bazedoxifene acetate"
+    },
+    {
+      "id": "4234",
+      "name": "bearberry leaf"
+    },
+    {
+      "id": "137",
+      "name": "becaplermin"
+    },
+    {
+      "id": "138",
+      "name": "beclometasone"
+    },
+    {
+      "id": "5122",
+      "name": "beclometasone dipropionate, anhydrous"
+    },
+    {
+      "id": "10377",
+      "name": "bedaquiline"
+    },
+    {
+      "id": "5678",
+      "name": "belatacept"
+    },
+    {
+      "id": "9337",
+      "name": "belimumab"
+    },
+    {
+      "id": "5068",
+      "name": "belladonna leaf tincture, standardised"
+    },
+    {
+      "id": "2339",
+      "name": "bemiparin sodium"
+    },
+    {
+      "id": "139",
+      "name": "benazepril"
+    },
+    {
+      "id": "140",
+      "name": "bencyclane"
+    },
+    {
+      "id": "9860",
+      "name": "bendamustine hydrochloride monohydrate"
+    },
+    {
+      "id": "141",
+      "name": "benfotiamine"
+    },
+    {
+      "id": "10779",
+      "name": "benralizumab"
+    },
+    {
+      "id": "5100",
+      "name": "benserazide hydrochloride"
+    },
+    {
+      "id": "143",
+      "name": "benzalkonium"
+    },
+    {
+      "id": "4685",
+      "name": "benzalkonium chloride"
+    },
+    {
+      "id": "147",
+      "name": "benzocaine"
+    },
+    {
+      "id": "149",
+      "name": "benzoxonium chloride"
+    },
+    {
+      "id": "2495",
+      "name": "benzoyl peroxide, hydrous"
+    },
+    {
+      "id": "151",
+      "name": "benzoyl peroxyde"
+    },
+    {
+      "id": "152",
+      "name": "benzydamine"
+    },
+    {
+      "id": "7502",
+      "name": "benzydamine hydrochloride"
+    },
+    {
+      "id": "153",
+      "name": "benzyl benzoate"
+    },
+    {
+      "id": "156",
+      "name": "benzylpenicillin"
+    },
+    {
+      "id": "5680",
+      "name": "besilesomab"
+    },
+    {
+      "id": "10744",
+      "name": "beta pinene"
+    },
+    {
+      "id": "159",
+      "name": "betahistine"
+    },
+    {
+      "id": "4938",
+      "name": "betahistine dihydrochloride"
+    },
+    {
+      "id": "2501",
+      "name": "betaine"
+    },
+    {
+      "id": "160",
+      "name": "betaine hydrochloride"
+    },
+    {
+      "id": "161",
+      "name": "betamethasone"
+    },
+    {
+      "id": "7509",
+      "name": "betamethasone dipropionate"
+    },
+    {
+      "id": "163",
+      "name": "betaxolol"
+    },
+    {
+      "id": "10767",
+      "name": "Betiatide (MAG3)"
+    },
+    {
+      "id": "10517",
+      "name": "betulae cortex dry extract (5-10:1); extraction solvent: n-heptane 95 % (W/W)"
+    },
+    {
+      "id": "2505",
+      "name": "bevacizumab"
+    },
+    {
+      "id": "5675",
+      "name": "bexarotene"
+    },
+    {
+      "id": "164",
+      "name": "bezafibrate"
+    },
+    {
+      "id": "10700",
+      "name": "bezlotoxumab"
+    },
+    {
+      "id": "165",
+      "name": "bicalutamide"
+    },
+    {
+      "id": "10865",
+      "name": "bictegravir"
+    },
+    {
+      "id": "167",
+      "name": "bifonazole"
+    },
+    {
+      "id": "8818",
+      "name": "bilastine"
+    },
+    {
+      "id": "2175",
+      "name": "bimatoprost"
+    },
+    {
+      "id": "10887",
+      "name": "binimetinib"
+    },
+    {
+      "id": "171",
+      "name": "biperiden"
+    },
+    {
+      "id": "4502",
+      "name": "Birch leaf"
+    },
+    {
+      "id": "172",
+      "name": "bisacodyl"
+    },
+    {
+      "id": "2515",
+      "name": "bismuth citrate"
+    },
+    {
+      "id": "173",
+      "name": "bismuth oxide"
+    },
+    {
+      "id": "174",
+      "name": "bismuth subgallate"
+    },
+    {
+      "id": "175",
+      "name": "bismuth subnitrate"
+    },
+    {
+      "id": "6903",
+      "name": "bismuth subsalicylate"
+    },
+    {
+      "id": "177",
+      "name": "bisoprolol"
+    },
+    {
+      "id": "7515",
+      "name": "bisoprolol fumarate"
+    },
+    {
+      "id": "6464",
+      "name": "Bitter-orange epicarp and mesocarp"
+    },
+    {
+      "id": "4055",
+      "name": "bivalirudin"
+    },
+    {
+      "id": "180",
+      "name": "bleomycin"
+    },
+    {
+      "id": "10402",
+      "name": "blinatumomab"
+    },
+    {
+      "id": "9336",
+      "name": "boceprevir"
+    },
+    {
+      "id": "4251",
+      "name": "Bogbean leaf"
+    },
+    {
+      "id": "182",
+      "name": "bopindolol"
+    },
+    {
+      "id": "2225",
+      "name": "Borax"
+    },
+    {
+      "id": "1843",
+      "name": "boric acid"
+    },
+    {
+      "id": "10741",
+      "name": "borneol"
+    },
+    {
+      "id": "2521",
+      "name": "bortezomib"
+    },
+    {
+      "id": "5682",
+      "name": "bosentan"
+    },
+    {
+      "id": "10454",
+      "name": "bosentan monohydrate"
+    },
+    {
+      "id": "5683",
+      "name": "bosutinib"
+    },
+    {
+      "id": "2524",
+      "name": "Botulinum toxin"
+    },
+    {
+      "id": "4907",
+      "name": "botulinum toxin type A for injection"
+    },
+    {
+      "id": "8891",
+      "name": "Brentuximab vedotin"
+    },
+    {
+      "id": "10866",
+      "name": "brexpiprazole"
+    },
+    {
+      "id": "10889",
+      "name": "brigatinib"
+    },
+    {
+      "id": "184",
+      "name": "brimonidine"
+    },
+    {
+      "id": "7519",
+      "name": "brimonidine tartrate"
+    },
+    {
+      "id": "185",
+      "name": "brinzolamide"
+    },
+    {
+      "id": "5684",
+      "name": "brivaracetam"
+    },
+    {
+      "id": "1838",
+      "name": "brivudine"
+    },
+    {
+      "id": "10755",
+      "name": "brodalumab"
+    },
+    {
+      "id": "6941",
+      "name": "bromelains"
+    },
+    {
+      "id": "9853",
+      "name": "bromfenac"
+    },
+    {
+      "id": "187",
+      "name": "bromhexine"
+    },
+    {
+      "id": "190",
+      "name": "bromocriptine"
+    },
+    {
+      "id": "191",
+      "name": "brotizolam"
+    },
+    {
+      "id": "193",
+      "name": "budesonide"
+    },
+    {
+      "id": "198",
+      "name": "bupivacaine"
+    },
+    {
+      "id": "200",
+      "name": "buprenorphine"
+    },
+    {
+      "id": "4103",
+      "name": "bupropion"
+    },
+    {
+      "id": "10830",
+      "name": "burosumab"
+    },
+    {
+      "id": "201",
+      "name": "buserelin"
+    },
+    {
+      "id": "7247",
+      "name": "buspirone"
+    },
+    {
+      "id": "203",
+      "name": "busulfan"
+    },
+    {
+      "id": "204",
+      "name": "butamirate"
+    },
+    {
+      "id": "7526",
+      "name": "butamirate citrate"
+    },
+    {
+      "id": "5436",
+      "name": "butcher’s broom"
+    },
+    {
+      "id": "2552",
+      "name": "butoconazole"
+    },
+    {
+      "id": "9193",
+      "name": "C1-esterase inhibitor human"
+    },
+    {
+      "id": "10578",
+      "name": "C1-esterase inhibitor, human"
+    },
+    {
+      "id": "2555",
+      "name": "C1-inhibitor"
+    },
+    {
+      "id": "8994",
+      "name": "Cabazitaxel"
+    },
+    {
+      "id": "10314",
+      "name": "Cabozantinib"
+    },
+    {
+      "id": "10579",
+      "name": "cabozantinib S-malate"
+    },
+    {
+      "id": "211",
+      "name": "caffeine"
+    },
+    {
+      "id": "214",
+      "name": "calcipotriol"
+    },
+    {
+      "id": "4455",
+      "name": "calcitonin (salmon)"
+    },
+    {
+      "id": "215",
+      "name": "calcitonin salmon"
+    },
+    {
+      "id": "216",
+      "name": "calcitriol"
+    },
+    {
+      "id": "3968",
+      "name": "calcium"
+    },
+    {
+      "id": "217",
+      "name": "calcium acetate"
+    },
+    {
+      "id": "218",
+      "name": "calcium carbonate"
+    },
+    {
+      "id": "220",
+      "name": "calcium chloride"
+    },
+    {
+      "id": "4609",
+      "name": "calcium chloride dihydrate"
+    },
+    {
+      "id": "221",
+      "name": "calcium citrate"
+    },
+    {
+      "id": "222",
+      "name": "calcium dobesilate"
+    },
+    {
+      "id": "9897",
+      "name": "Calcium fluoratum"
+    },
+    {
+      "id": "225",
+      "name": "calcium folinate"
+    },
+    {
+      "id": "226",
+      "name": "calcium gluconate"
+    },
+    {
+      "id": "9105",
+      "name": "calcium hypophosphite"
+    },
+    {
+      "id": "227",
+      "name": "calcium lactate gluconate"
+    },
+    {
+      "id": "10307",
+      "name": "calcium phosphoricum for homeopathic preparations"
+    },
+    {
+      "id": "2084",
+      "name": "calcium polystyrene sulfonate"
+    },
+    {
+      "id": "10333",
+      "name": "calcium sulfate"
+    },
+    {
+      "id": "2334",
+      "name": "calcium-DTPA"
+    },
+    {
+      "id": "9395",
+      "name": "Camelliae sinensis folium"
+    },
+    {
+      "id": "10740",
+      "name": "camphene"
+    },
+    {
+      "id": "2582",
+      "name": "camphor"
+    },
+    {
+      "id": "4265",
+      "name": "Camphor, racemic"
+    },
+    {
+      "id": "8781",
+      "name": "canagliflozin"
+    },
+    {
+      "id": "9352",
+      "name": "canakinumab"
+    },
+    {
+      "id": "231",
+      "name": "candesartan"
+    },
+    {
+      "id": "7530",
+      "name": "candesartan cilexetil"
+    },
+    {
+      "id": "9206",
+      "name": "Canellae albae radix"
+    },
+    {
+      "id": "10519",
+      "name": "cangrelor"
+    },
+    {
+      "id": "9335",
+      "name": "cápamájolaj"
+    },
+    {
+      "id": "233",
+      "name": "capecitabine"
+    },
+    {
+      "id": "10870",
+      "name": "caplacizumab"
+    },
+    {
+      "id": "234",
+      "name": "capsaicin"
+    },
+    {
+      "id": "236",
+      "name": "captopril"
+    },
+    {
+      "id": "5061",
+      "name": "Caraway fruit"
+    },
+    {
+      "id": "6235",
+      "name": "caraway oil"
+    },
+    {
+      "id": "237",
+      "name": "carbachol"
+    },
+    {
+      "id": "238",
+      "name": "carbamazepine"
+    },
+    {
+      "id": "4101",
+      "name": "Carbamide 13C"
+    },
+    {
+      "id": "242",
+      "name": "carbenoxolone"
+    },
+    {
+      "id": "2275",
+      "name": "carbetocin"
+    },
+    {
+      "id": "4034",
+      "name": "carbidopa"
+    },
+    {
+      "id": "10580",
+      "name": "carbidopa monohydrate"
+    },
+    {
+      "id": "243",
+      "name": "carbocisteine"
+    },
+    {
+      "id": "4764",
+      "name": "carbomers"
+    },
+    {
+      "id": "2593",
+      "name": "carbon dioxide"
+    },
+    {
+      "id": "245",
+      "name": "carboplatin"
+    },
+    {
+      "id": "2596",
+      "name": "carbromal"
+    },
+    {
+      "id": "9208",
+      "name": "Cardamomi fructus"
+    },
+    {
+      "id": "9209",
+      "name": "Cardui benedicti herba"
+    },
+    {
+      "id": "8893",
+      "name": "Carfilzomib"
+    },
+    {
+      "id": "2599",
+      "name": "carglumic acid"
+    },
+    {
+      "id": "8969",
+      "name": "Cariprazine"
+    },
+    {
+      "id": "9197",
+      "name": "Carlinae radix"
+    },
+    {
+      "id": "251",
+      "name": "carmustine"
+    },
+    {
+      "id": "253",
+      "name": "carvedilol"
+    },
+    {
+      "id": "2132",
+      "name": "caspofungin"
+    },
+    {
+      "id": "9558",
+      "name": "catridecacog"
+    },
+    {
+      "id": "10346",
+      "name": "catumaxomab"
+    },
+    {
+      "id": "9904",
+      "name": "Causticum"
+    },
+    {
+      "id": "255",
+      "name": "cefaclor"
+    },
+    {
+      "id": "257",
+      "name": "cefalexin"
+    },
+    {
+      "id": "261",
+      "name": "cefazolin"
+    },
+    {
+      "id": "4865",
+      "name": "cefazolin sodium"
+    },
+    {
+      "id": "7260",
+      "name": "cefepime"
+    },
+    {
+      "id": "8669",
+      "name": "cefepime hydrochloride"
+    },
+    {
+      "id": "263",
+      "name": "cefixime"
+    },
+    {
+      "id": "265",
+      "name": "cefoperazone"
+    },
+    {
+      "id": "267",
+      "name": "cefotaxime"
+    },
+    {
+      "id": "271",
+      "name": "cefprozil"
+    },
+    {
+      "id": "9559",
+      "name": "ceftaroline fosamil"
+    },
+    {
+      "id": "272",
+      "name": "ceftazidime"
+    },
+    {
+      "id": "273",
+      "name": "ceftibuten"
+    },
+    {
+      "id": "10395",
+      "name": "ceftolozane"
+    },
+    {
+      "id": "275",
+      "name": "ceftriaxone"
+    },
+    {
+      "id": "276",
+      "name": "cefuroxime"
+    },
+    {
+      "id": "4852",
+      "name": "cefuroxime axetil"
+    },
+    {
+      "id": "277",
+      "name": "celecoxib"
+    },
+    {
+      "id": "1827",
+      "name": "celiprolol"
+    },
+    {
+      "id": "10756",
+      "name": "cenegermin"
+    },
+    {
+      "id": "5319",
+      "name": "centaury"
+    },
+    {
+      "id": "9322",
+      "name": "Cerasi stipes"
+    },
+    {
+      "id": "10393",
+      "name": "ceritinib"
+    },
+    {
+      "id": "10736",
+      "name": "cerliponase alfa"
+    },
+    {
+      "id": "5694",
+      "name": "certolizumab pegol"
+    },
+    {
+      "id": "283",
+      "name": "cetirizine"
+    },
+    {
+      "id": "4972",
+      "name": "cetirizine dihydrochloride"
+    },
+    {
+      "id": "286",
+      "name": "cetrorelix"
+    },
+    {
+      "id": "2629",
+      "name": "cetuximab"
+    },
+    {
+      "id": "4509",
+      "name": "cetylpyridinium chloride"
+    },
+    {
+      "id": "10306",
+      "name": "chamomilla recutita for homeopathic preparations"
+    },
+    {
+      "id": "10249",
+      "name": "Chamomillae herba extractum fluidum"
+    },
+    {
+      "id": "10404",
+      "name": "Characterised viable autologous cartilage cells expanded ex vivo expressing specific marker proteins"
+    },
+    {
+      "id": "4168",
+      "name": "charcoal, activated"
+    },
+    {
+      "id": "8827",
+      "name": "charcoal, vegetable"
+    },
+    {
+      "id": "9125",
+      "name": "chelated minerals"
+    },
+    {
+      "id": "291",
+      "name": "chenodeoxycholic acid"
+    },
+    {
+      "id": "10388",
+      "name": "Chininum arsenicosum"
+    },
+    {
+      "id": "294",
+      "name": "chlorambucil"
+    },
+    {
+      "id": "299",
+      "name": "chlordiazepoxide"
+    },
+    {
+      "id": "300",
+      "name": "chlorhexidine"
+    },
+    {
+      "id": "4428",
+      "name": "chlorhexidine gluconate"
+    },
+    {
+      "id": "4969",
+      "name": "chlorhexidine hydrochloride"
+    },
+    {
+      "id": "1830",
+      "name": "chlormadinone"
+    },
+    {
+      "id": "2635",
+      "name": "chlormethine"
+    },
+    {
+      "id": "2637",
+      "name": "chlorobutanol"
+    },
+    {
+      "id": "5490",
+      "name": "chlorobutanol hemihydrate"
+    },
+    {
+      "id": "302",
+      "name": "chlorogenium (tosylchloramide sodium B)"
+    },
+    {
+      "id": "304",
+      "name": "chloropyramine"
+    },
+    {
+      "id": "305",
+      "name": "chloroquine"
+    },
+    {
+      "id": "10494",
+      "name": "chloroseptyl"
+    },
+    {
+      "id": "4347",
+      "name": "chlorphenamine maleate"
+    },
+    {
+      "id": "308",
+      "name": "chlorpromazine"
+    },
+    {
+      "id": "4158",
+      "name": "chlorprothixene"
+    },
+    {
+      "id": "311",
+      "name": "chlortalidone"
+    },
+    {
+      "id": "312",
+      "name": "chlorzoxazone"
+    },
+    {
+      "id": "368",
+      "name": "cholecalciferol"
+    },
+    {
+      "id": "10848",
+      "name": "cholecalciferol concentrate (powder form)"
+    },
+    {
+      "id": "10416",
+      "name": "Cholic acid"
+    },
+    {
+      "id": "314",
+      "name": "choline salicylate"
+    },
+    {
+      "id": "7169",
+      "name": "chondroitin sulphate sodium"
+    },
+    {
+      "id": "2652",
+      "name": "choriogonadotropin alfa"
+    },
+    {
+      "id": "2653",
+      "name": "chorionic gonadotrophin"
+    },
+    {
+      "id": "3944",
+      "name": "chromium trichloride hexahydrate"
+    },
+    {
+      "id": "2232",
+      "name": "ciclesonide"
+    },
+    {
+      "id": "321",
+      "name": "ciclopirox"
+    },
+    {
+      "id": "4950",
+      "name": "ciclopirox olamine"
+    },
+    {
+      "id": "322",
+      "name": "ciclosporin"
+    },
+    {
+      "id": "2662",
+      "name": "cidofovir"
+    },
+    {
+      "id": "3991",
+      "name": "cilastatin"
+    },
+    {
+      "id": "323",
+      "name": "cilazapril"
+    },
+    {
+      "id": "9557",
+      "name": "cilostazol"
+    },
+    {
+      "id": "9914",
+      "name": "Cimicifuga racemosa"
+    },
+    {
+      "id": "4085",
+      "name": "cinacalcet"
+    },
+    {
+      "id": "8417",
+      "name": "cinacalcet hydrochloride"
+    },
+    {
+      "id": "4931",
+      "name": "cineole"
+    },
+    {
+      "id": "9207",
+      "name": "Cinnamomi chinensis cortex"
+    },
+    {
+      "id": "328",
+      "name": "cinnarizine"
+    },
+    {
+      "id": "330",
+      "name": "cinolazepam"
+    },
+    {
+      "id": "331",
+      "name": "ciprofibrate"
+    },
+    {
+      "id": "332",
+      "name": "ciprofloxacin"
+    },
+    {
+      "id": "10970",
+      "name": "cisatracurium"
+    },
+    {
+      "id": "335",
+      "name": "cisatracurium besilate"
+    },
+    {
+      "id": "336",
+      "name": "cisplatin"
+    },
+    {
+      "id": "337",
+      "name": "citalopram"
+    },
+    {
+      "id": "9199",
+      "name": "Citri pericarpium"
+    },
+    {
+      "id": "338",
+      "name": "citric acid"
+    },
+    {
+      "id": "5424",
+      "name": "citric acid, anhydrous"
+    },
+    {
+      "id": "339",
+      "name": "cladribine"
+    },
+    {
+      "id": "340",
+      "name": "clarithromycin"
+    },
+    {
+      "id": "2343",
+      "name": "clavulanic acid"
+    },
+    {
+      "id": "342",
+      "name": "clenbuterol"
+    },
+    {
+      "id": "344",
+      "name": "clindamycin"
+    },
+    {
+      "id": "346",
+      "name": "clobazam"
+    },
+    {
+      "id": "347",
+      "name": "clobetasol"
+    },
+    {
+      "id": "348",
+      "name": "clodronic acid"
+    },
+    {
+      "id": "5604",
+      "name": "clofarabine"
+    },
+    {
+      "id": "350",
+      "name": "clomethiazole"
+    },
+    {
+      "id": "351",
+      "name": "clomifene"
+    },
+    {
+      "id": "352",
+      "name": "clomipramine"
+    },
+    {
+      "id": "353",
+      "name": "clonazepam"
+    },
+    {
+      "id": "356",
+      "name": "clopamide"
+    },
+    {
+      "id": "357",
+      "name": "clopidogrel"
+    },
+    {
+      "id": "9148",
+      "name": "clopidogrel besilate"
+    },
+    {
+      "id": "8747",
+      "name": "clopidogrel bisulfate"
+    },
+    {
+      "id": "10583",
+      "name": "clopidogrel hydrochloride"
+    },
+    {
+      "id": "10356",
+      "name": "clopidogrel hydrogen sulfate"
+    },
+    {
+      "id": "359",
+      "name": "clotrimazole"
+    },
+    {
+      "id": "5254",
+      "name": "Clove"
+    },
+    {
+      "id": "362",
+      "name": "clozapine"
+    },
+    {
+      "id": "9174",
+      "name": "cobalt chloride hexahydrate"
+    },
+    {
+      "id": "10341",
+      "name": "cobicistat"
+    },
+    {
+      "id": "10413",
+      "name": "Cobimetinib"
+    },
+    {
+      "id": "4994",
+      "name": "cod-liver oil (type A)"
+    },
+    {
+      "id": "5545",
+      "name": "cod-liver oil (type B)"
+    },
+    {
+      "id": "364",
+      "name": "codeine"
+    },
+    {
+      "id": "5355",
+      "name": "codeine phosphate hemihydrate"
+    },
+    {
+      "id": "367",
+      "name": "colchicine"
+    },
+    {
+      "id": "4060",
+      "name": "colesevelam"
+    },
+    {
+      "id": "5373",
+      "name": "colistimethate sodium"
+    },
+    {
+      "id": "376",
+      "name": "collagenase"
+    },
+    {
+      "id": "4096",
+      "name": "Comb. Vaccine"
+    },
+    {
+      "id": "10655",
+      "name": "Concentrate of proteolytic enzymes enriched in bromelain"
+    },
+    {
+      "id": "10275",
+      "name": "conestat alfa"
+    },
+    {
+      "id": "3959",
+      "name": "Copper"
+    },
+    {
+      "id": "6720",
+      "name": "copper sulphate pentahydrate"
+    },
+    {
+      "id": "5188",
+      "name": "Coriander"
+    },
+    {
+      "id": "5705",
+      "name": "corifollitropin alfa"
+    },
+    {
+      "id": "9564",
+      "name": "crizotinib"
+    },
+    {
+      "id": "9210",
+      "name": "Croci flos"
+    },
+    {
+      "id": "381",
+      "name": "cromoglicic acid"
+    },
+    {
+      "id": "6517",
+      "name": "cubeb fruit"
+    },
+    {
+      "id": "383",
+      "name": "cyanocobalamin"
+    },
+    {
+      "id": "387",
+      "name": "cyclopentolate"
+    },
+    {
+      "id": "388",
+      "name": "cyclophosphamide"
+    },
+    {
+      "id": "390",
+      "name": "cyproheptadine"
+    },
+    {
+      "id": "5440",
+      "name": "cyproheptadine hydrochloride"
+    },
+    {
+      "id": "391",
+      "name": "cyproterone"
+    },
+    {
+      "id": "393",
+      "name": "cytarabine"
+    },
+    {
+      "id": "4943",
+      "name": "D-camphor"
+    },
+    {
+      "id": "5706",
+      "name": "dabigatran etexilate"
+    },
+    {
+      "id": "9864",
+      "name": "dabrafenib"
+    },
+    {
+      "id": "396",
+      "name": "dacarbazine"
+    },
+    {
+      "id": "10392",
+      "name": "Daclatasvir"
+    },
+    {
+      "id": "10588",
+      "name": "daclatasvir dihydrochloride"
+    },
+    {
+      "id": "397",
+      "name": "daclizumab"
+    },
+    {
+      "id": "10943",
+      "name": "dacomitinib"
+    },
+    {
+      "id": "10370",
+      "name": "dalbavancin"
+    },
+    {
+      "id": "4920",
+      "name": "dalteparin sodium"
+    },
+    {
+      "id": "10877",
+      "name": "damoctocog alfa pegol"
+    },
+    {
+      "id": "7310",
+      "name": "dantrolene"
+    },
+    {
+      "id": "5707",
+      "name": "dapagliflozin"
+    },
+    {
+      "id": "10350",
+      "name": "dapagliflozin propanediol monohydrate"
+    },
+    {
+      "id": "5708",
+      "name": "dapoxetine"
+    },
+    {
+      "id": "5558",
+      "name": "daptomycin"
+    },
+    {
+      "id": "10467",
+      "name": "daratumumab"
+    },
+    {
+      "id": "2735",
+      "name": "darbepoetin alfa"
+    },
+    {
+      "id": "2736",
+      "name": "darifenacin"
+    },
+    {
+      "id": "5610",
+      "name": "darunavir"
+    },
+    {
+      "id": "10826",
+      "name": "darvadstrocel"
+    },
+    {
+      "id": "10343",
+      "name": "dasabuvir"
+    },
+    {
+      "id": "5621",
+      "name": "dasatinib"
+    },
+    {
+      "id": "402",
+      "name": "daunorubicin"
+    },
+    {
+      "id": "5711",
+      "name": "decitabine"
+    },
+    {
+      "id": "5559",
+      "name": "deferasirox"
+    },
+    {
+      "id": "2739",
+      "name": "deferiprone"
+    },
+    {
+      "id": "405",
+      "name": "deferoxamine"
+    },
+    {
+      "id": "2740",
+      "name": "defibrotide"
+    },
+    {
+      "id": "5713",
+      "name": "degarelix"
+    },
+    {
+      "id": "406",
+      "name": "dehydrocholic acid"
+    },
+    {
+      "id": "10522",
+      "name": "delamanid"
+    },
+    {
+      "id": "5715",
+      "name": "denosumab"
+    },
+    {
+      "id": "10381",
+      "name": "deoxycholic acid"
+    },
+    {
+      "id": "4087",
+      "name": "depreotide"
+    },
+    {
+      "id": "2751",
+      "name": "dequalinium chloride"
+    },
+    {
+      "id": "407",
+      "name": "desflurane"
+    },
+    {
+      "id": "409",
+      "name": "desirudin"
+    },
+    {
+      "id": "411",
+      "name": "desloratadine"
+    },
+    {
+      "id": "412",
+      "name": "desmopressin"
+    },
+    {
+      "id": "413",
+      "name": "desogestrel"
+    },
+    {
+      "id": "5074",
+      "name": "Devil’s claw root"
+    },
+    {
+      "id": "417",
+      "name": "dexamethasone"
+    },
+    {
+      "id": "4720",
+      "name": "dexamethasone acetate"
+    },
+    {
+      "id": "4878",
+      "name": "dexamethasone sodium phosphate"
+    },
+    {
+      "id": "423",
+      "name": "dexibuprofen"
+    },
+    {
+      "id": "1829",
+      "name": "dexketoprofen"
+    },
+    {
+      "id": "9257",
+      "name": "Dexketoprofen trometamol"
+    },
+    {
+      "id": "5720",
+      "name": "dexlansoprazole"
+    },
+    {
+      "id": "424",
+      "name": "dexmedetomidine"
+    },
+    {
+      "id": "7641",
+      "name": "dexmedetomidine hydrochloride"
+    },
+    {
+      "id": "425",
+      "name": "dexpanthenol"
+    },
+    {
+      "id": "427",
+      "name": "dexrazoxane"
+    },
+    {
+      "id": "10593",
+      "name": "dexrazoxane hydrochloride"
+    },
+    {
+      "id": "428",
+      "name": "dextran"
+    },
+    {
+      "id": "5189",
+      "name": "dextran 1 for injection"
+    },
+    {
+      "id": "4291",
+      "name": "dextran 40 for injection"
+    },
+    {
+      "id": "435",
+      "name": "dextromethorphan"
+    },
+    {
+      "id": "4669",
+      "name": "dextromethorphan hydrobromide"
+    },
+    {
+      "id": "441",
+      "name": "diazepam"
+    },
+    {
+      "id": "4071",
+      "name": "dibotermin alfa"
+    },
+    {
+      "id": "2775",
+      "name": "Dichlorobenzyl alcohol"
+    },
+    {
+      "id": "446",
+      "name": "diclofenac"
+    },
+    {
+      "id": "10324",
+      "name": "diclofenac epolamine"
+    },
+    {
+      "id": "4998",
+      "name": "diclofenac potassium"
+    },
+    {
+      "id": "5524",
+      "name": "diclofenac sodium"
+    },
+    {
+      "id": "448",
+      "name": "didanosine"
+    },
+    {
+      "id": "2184",
+      "name": "dienogest"
+    },
+    {
+      "id": "437",
+      "name": "diethylamin salicylate"
+    },
+    {
+      "id": "4129",
+      "name": "Diethylamine salicylate"
+    },
+    {
+      "id": "7416",
+      "name": "Diethylenetriamino pentaacetic acid"
+    },
+    {
+      "id": "2789",
+      "name": "diflucortolone"
+    },
+    {
+      "id": "456",
+      "name": "digitoxin"
+    },
+    {
+      "id": "457",
+      "name": "digoxin"
+    },
+    {
+      "id": "458",
+      "name": "dihydralazine"
+    },
+    {
+      "id": "460",
+      "name": "dihydrocodeine"
+    },
+    {
+      "id": "468",
+      "name": "diltiazem"
+    },
+    {
+      "id": "4591",
+      "name": "dimenhydrinate"
+    },
+    {
+      "id": "7417",
+      "name": "Dimercaptosuccinic acid"
+    },
+    {
+      "id": "5722",
+      "name": "dimethyl fumarate"
+    },
+    {
+      "id": "2810",
+      "name": "dimethyl phthalate"
+    },
+    {
+      "id": "2807",
+      "name": "dimethyl sulfoxide"
+    },
+    {
+      "id": "5105",
+      "name": "dimeticone"
+    },
+    {
+      "id": "471",
+      "name": "dimetindene"
+    },
+    {
+      "id": "5280",
+      "name": "dimetindene maleate"
+    },
+    {
+      "id": "473",
+      "name": "dinoprost"
+    },
+    {
+      "id": "474",
+      "name": "dinoprostone"
+    },
+    {
+      "id": "10523",
+      "name": "dinutuximab"
+    },
+    {
+      "id": "476",
+      "name": "diosmectite"
+    },
+    {
+      "id": "477",
+      "name": "diosmin"
+    },
+    {
+      "id": "478",
+      "name": "diphenhydramine"
+    },
+    {
+      "id": "2003",
+      "name": "diphenoxylate"
+    },
+    {
+      "id": "2822",
+      "name": "Diphtheria toxoid"
+    },
+    {
+      "id": "4077",
+      "name": "diphtheria vaccine (adsorbed)"
+    },
+    {
+      "id": "4083",
+      "name": "Diphtheria, tetanus, acellular pertussis, hepatitis B recombinant (adsorbed), inactivated poliomyeli"
+    },
+    {
+      "id": "2824",
+      "name": "Diphtheria-hepatitis B-pertussis-tetanus"
+    },
+    {
+      "id": "4681",
+      "name": "dipotassium phosphate"
+    },
+    {
+      "id": "483",
+      "name": "dipyridamole"
+    },
+    {
+      "id": "4470",
+      "name": "disodium phosphate dihydrate"
+    },
+    {
+      "id": "4638",
+      "name": "disodium phosphate dodecahydrate"
+    },
+    {
+      "id": "486",
+      "name": "disopyramide"
+    },
+    {
+      "id": "488",
+      "name": "disulfiram"
+    },
+    {
+      "id": "490",
+      "name": "dobutamine"
+    },
+    {
+      "id": "491",
+      "name": "docetaxel"
+    },
+    {
+      "id": "10594",
+      "name": "docetaxel trihydrate"
+    },
+    {
+      "id": "2287",
+      "name": "docosanol"
+    },
+    {
+      "id": "10285",
+      "name": "dolutegravir"
+    },
+    {
+      "id": "10714",
+      "name": "dolutegravir sodium"
+    },
+    {
+      "id": "493",
+      "name": "domperidone"
+    },
+    {
+      "id": "494",
+      "name": "donepezil"
+    },
+    {
+      "id": "7674",
+      "name": "donepezil hydrochloride"
+    },
+    {
+      "id": "495",
+      "name": "dopamine"
+    },
+    {
+      "id": "10874",
+      "name": "doravirine"
+    },
+    {
+      "id": "5725",
+      "name": "doripenem"
+    },
+    {
+      "id": "496",
+      "name": "dornase alfa"
+    },
+    {
+      "id": "497",
+      "name": "dorzolamide"
+    },
+    {
+      "id": "7676",
+      "name": "dorzolamide hydrochloride"
+    },
+    {
+      "id": "5726",
+      "name": "doxazosin"
+    },
+    {
+      "id": "502",
+      "name": "doxorubicin"
+    },
+    {
+      "id": "8776",
+      "name": "doxorubicin hydrochloride"
+    },
+    {
+      "id": "505",
+      "name": "doxycycline"
+    },
+    {
+      "id": "507",
+      "name": "doxylamine"
+    },
+    {
+      "id": "4348",
+      "name": "doxylamine hydrogen succinate"
+    },
+    {
+      "id": "5727",
+      "name": "dronedarone"
+    },
+    {
+      "id": "508",
+      "name": "droperidol"
+    },
+    {
+      "id": "9948",
+      "name": "Drosera"
+    },
+    {
+      "id": "509",
+      "name": "drospirenone"
+    },
+    {
+      "id": "510",
+      "name": "drotaverine"
+    },
+    {
+      "id": "2194",
+      "name": "drotrecogin alfa (activated)"
+    },
+    {
+      "id": "5557",
+      "name": "dry extract of red vine leaves"
+    },
+    {
+      "id": "10361",
+      "name": "dulaglutide"
+    },
+    {
+      "id": "5730",
+      "name": "duloxetine"
+    },
+    {
+      "id": "8598",
+      "name": "duloxetine hydrochloride"
+    },
+    {
+      "id": "10763",
+      "name": "dupilumab"
+    },
+    {
+      "id": "10872",
+      "name": "durvalumab"
+    },
+    {
+      "id": "2199",
+      "name": "dutasteride"
+    },
+    {
+      "id": "512",
+      "name": "dydrogesterone"
+    },
+    {
+      "id": "515",
+      "name": "ebastine"
+    },
+    {
+      "id": "10927",
+      "name": "Echerichia coli"
+    },
+    {
+      "id": "6839",
+      "name": "Echinacea purp. succus exp."
+    },
+    {
+      "id": "7023",
+      "name": "Echinaceae purpurea L radix extr."
+    },
+    {
+      "id": "516",
+      "name": "econazole"
+    },
+    {
+      "id": "9544",
+      "name": "eculizumab"
+    },
+    {
+      "id": "10701",
+      "name": "edotreotide"
+    },
+    {
+      "id": "10524",
+      "name": "edoxaban tosylate"
+    },
+    {
+      "id": "2854",
+      "name": "Efalizumab"
+    },
+    {
+      "id": "520",
+      "name": "efavirenz"
+    },
+    {
+      "id": "2855",
+      "name": "Eflornithine"
+    },
+    {
+      "id": "10672",
+      "name": "efmoroctocog alfa"
+    },
+    {
+      "id": "10492",
+      "name": "eftrenonacog alfa"
+    },
+    {
+      "id": "10489",
+      "name": "elbasvir"
+    },
+    {
+      "id": "6573",
+      "name": "elecampane root"
+    },
+    {
+      "id": "521",
+      "name": "electrolits"
+    },
+    {
+      "id": "523",
+      "name": "electrolits/oral rehydration salts"
+    },
+    {
+      "id": "9334",
+      "name": "élesztősejt-kivonat"
+    },
+    {
+      "id": "524",
+      "name": "eletriptan"
+    },
+    {
+      "id": "10525",
+      "name": "eliglustat tartrate"
+    },
+    {
+      "id": "2222",
+      "name": "elixirium thymi compositum"
+    },
+    {
+      "id": "10313",
+      "name": "elosulfase alfa"
+    },
+    {
+      "id": "10670",
+      "name": "elotuzumab"
+    },
+    {
+      "id": "8833",
+      "name": "eltrombopag"
+    },
+    {
+      "id": "10702",
+      "name": "eluxadoline"
+    },
+    {
+      "id": "10462",
+      "name": "elvitegravir"
+    },
+    {
+      "id": "525",
+      "name": "emedastine"
+    },
+    {
+      "id": "10786",
+      "name": "emicizumab"
+    },
+    {
+      "id": "10299",
+      "name": "empagliflozin"
+    },
+    {
+      "id": "2861",
+      "name": "Emtricitabine"
+    },
+    {
+      "id": "526",
+      "name": "enalapril"
+    },
+    {
+      "id": "5445",
+      "name": "enalapril maleate"
+    },
+    {
+      "id": "10885",
+      "name": "encorafenib"
+    },
+    {
+      "id": "2869",
+      "name": "Enfuvirtide"
+    },
+    {
+      "id": "4243",
+      "name": "enoxaparin sodium"
+    },
+    {
+      "id": "530",
+      "name": "entacapone"
+    },
+    {
+      "id": "5632",
+      "name": "entecavir"
+    },
+    {
+      "id": "8557",
+      "name": "entecavir monohydrate"
+    },
+    {
+      "id": "10926",
+      "name": "Enterococcus faecalis"
+    },
+    {
+      "id": "10272",
+      "name": "enzalutamide"
+    },
+    {
+      "id": "533",
+      "name": "ephedrine"
+    },
+    {
+      "id": "4581",
+      "name": "ephedrine hydrochloride"
+    },
+    {
+      "id": "2211",
+      "name": "epinastin"
+    },
+    {
+      "id": "535",
+      "name": "epinephrine (adrenaline)"
+    },
+    {
+      "id": "5275",
+      "name": "epinephrine bitartrate"
+    },
+    {
+      "id": "537",
+      "name": "epirubicin"
+    },
+    {
+      "id": "4765",
+      "name": "epirubicin hydrochloride"
+    },
+    {
+      "id": "2264",
+      "name": "eplerenone"
+    },
+    {
+      "id": "2187",
+      "name": "epoetin alfa"
+    },
+    {
+      "id": "4086",
+      "name": "Epoetin beta"
+    },
+    {
+      "id": "4064",
+      "name": "Epoetin delta"
+    },
+    {
+      "id": "8820",
+      "name": "epoetin theta"
+    },
+    {
+      "id": "5961",
+      "name": "epoetin zeta"
+    },
+    {
+      "id": "2881",
+      "name": "Epoprostenol"
+    },
+    {
+      "id": "538",
+      "name": "eprosartan"
+    },
+    {
+      "id": "2884",
+      "name": "Eptacog alfa (activated)"
+    },
+    {
+      "id": "2885",
+      "name": "eptifibatide"
+    },
+    {
+      "id": "4090",
+      "name": "Eptotermin alfa"
+    },
+    {
+      "id": "4819",
+      "name": "Equisetum stem"
+    },
+    {
+      "id": "10888",
+      "name": "eravacycline"
+    },
+    {
+      "id": "541",
+      "name": "erdosteine"
+    },
+    {
+      "id": "10863",
+      "name": "erenumab"
+    },
+    {
+      "id": "542",
+      "name": "ergocalciferol"
+    },
+    {
+      "id": "544",
+      "name": "ergotamine"
+    },
+    {
+      "id": "9342",
+      "name": "eribulin"
+    },
+    {
+      "id": "5560",
+      "name": "erlotinib"
+    },
+    {
+      "id": "8510",
+      "name": "erlotinib hydrochloride"
+    },
+    {
+      "id": "2177",
+      "name": "ertapenem"
+    },
+    {
+      "id": "8080",
+      "name": "ertapenem sodium"
+    },
+    {
+      "id": "10829",
+      "name": "ertugliflozin"
+    },
+    {
+      "id": "4169",
+      "name": "erythromycin"
+    },
+    {
+      "id": "2266",
+      "name": "escin"
+    },
+    {
+      "id": "2145",
+      "name": "escitalopram"
+    },
+    {
+      "id": "8061",
+      "name": "escitalopram oxalate"
+    },
+    {
+      "id": "5741",
+      "name": "eslicarbazepin"
+    },
+    {
+      "id": "10598",
+      "name": "eslicarbazepine acetate"
+    },
+    {
+      "id": "551",
+      "name": "esmolol"
+    },
+    {
+      "id": "552",
+      "name": "esomeprazole"
+    },
+    {
+      "id": "553",
+      "name": "estradiol"
+    },
+    {
+      "id": "5071",
+      "name": "estradiol benzoate"
+    },
+    {
+      "id": "9176",
+      "name": "Estradiol hemihydrate"
+    },
+    {
+      "id": "7693",
+      "name": "estradiol valerate"
+    },
+    {
+      "id": "2891",
+      "name": "Estramustine"
+    },
+    {
+      "id": "556",
+      "name": "estriol"
+    },
+    {
+      "id": "559",
+      "name": "estrogens conjugated"
+    },
+    {
+      "id": "561",
+      "name": "etacrynic acid"
+    },
+    {
+      "id": "562",
+      "name": "etamsylate"
+    },
+    {
+      "id": "563",
+      "name": "etanercept"
+    },
+    {
+      "id": "10703",
+      "name": "etelcalcetide hydrochloride"
+    },
+    {
+      "id": "564",
+      "name": "ethambutol"
+    },
+    {
+      "id": "2899",
+      "name": "ethanol"
+    },
+    {
+      "id": "566",
+      "name": "ethinylestradiol"
+    },
+    {
+      "id": "4048",
+      "name": "Ethyl nicotinate"
+    },
+    {
+      "id": "10312",
+      "name": "ethylene cysteine"
+    },
+    {
+      "id": "7418",
+      "name": "Ethylenediamine tetramethylene phosphonate"
+    },
+    {
+      "id": "2008",
+      "name": "ethylmorphine"
+    },
+    {
+      "id": "578",
+      "name": "etofenamate"
+    },
+    {
+      "id": "2916",
+      "name": "Etomidate"
+    },
+    {
+      "id": "580",
+      "name": "etonogestrel"
+    },
+    {
+      "id": "581",
+      "name": "etoposide"
+    },
+    {
+      "id": "2131",
+      "name": "etoricoxib"
+    },
+    {
+      "id": "7375",
+      "name": "etravirine"
+    },
+    {
+      "id": "6455",
+      "name": "Eucalyptus oil"
+    },
+    {
+      "id": "9953",
+      "name": "Euphrasia officinalis"
+    },
+    {
+      "id": "9954",
+      "name": "Euspongia officinalis"
+    },
+    {
+      "id": "2922",
+      "name": "Everolimus"
+    },
+    {
+      "id": "10384",
+      "name": "Evolocumab"
+    },
+    {
+      "id": "10526",
+      "name": "ex vivo autologous corneal epithelial cells including stem cells"
+    },
+    {
+      "id": "7415",
+      "name": "exametazime"
+    },
+    {
+      "id": "583",
+      "name": "exemestane"
+    },
+    {
+      "id": "5746",
+      "name": "exenatide"
+    },
+    {
+      "id": "584",
+      "name": "extr. agni casti fruct."
+    },
+    {
+      "id": "585",
+      "name": "extr. cepae"
+    },
+    {
+      "id": "586",
+      "name": "extr. cimicifuga rhizomae"
+    },
+    {
+      "id": "590",
+      "name": "extr. fariae"
+    },
+    {
+      "id": "2092",
+      "name": "extr. ginsengi"
+    },
+    {
+      "id": "3965",
+      "name": "extr. Hederae helicis"
+    },
+    {
+      "id": "599",
+      "name": "extr. pollinis"
+    },
+    {
+      "id": "4015",
+      "name": "extr. Primulae"
+    },
+    {
+      "id": "5572",
+      "name": "extr. thymi vulgaris herba"
+    },
+    {
+      "id": "10334",
+      "name": "extractum humuli lupuli strobuli siccum"
+    },
+    {
+      "id": "2191",
+      "name": "ezetimibe"
+    },
+    {
+      "id": "614",
+      "name": "factor II, VII, IX, X"
+    },
+    {
+      "id": "615",
+      "name": "factor IX, human coagulation"
+    },
+    {
+      "id": "621",
+      "name": "factor VIII (rDNA), human coagulation"
+    },
+    {
+      "id": "2923",
+      "name": "Factor VIII inhibitor bypassing activity"
+    },
+    {
+      "id": "2119",
+      "name": "factor VIII+von Willebrand"
+    },
+    {
+      "id": "617",
+      "name": "factor VIII, human coagulation"
+    },
+    {
+      "id": "622",
+      "name": "famciclovir"
+    },
+    {
+      "id": "623",
+      "name": "famotidine"
+    },
+    {
+      "id": "9540",
+      "name": "Fampridine"
+    },
+    {
+      "id": "5593",
+      "name": "febuxostat"
+    },
+    {
+      "id": "626",
+      "name": "felbamate"
+    },
+    {
+      "id": "627",
+      "name": "felodipine"
+    },
+    {
+      "id": "10745",
+      "name": "fenchone"
+    },
+    {
+      "id": "630",
+      "name": "fenofibrate"
+    },
+    {
+      "id": "632",
+      "name": "fenoterol"
+    },
+    {
+      "id": "635",
+      "name": "fentanyl"
+    },
+    {
+      "id": "4218",
+      "name": "fentanyl citrate"
+    },
+    {
+      "id": "10601",
+      "name": "fentanyl hydrochloride"
+    },
+    {
+      "id": "636",
+      "name": "fenticonazole"
+    },
+    {
+      "id": "4753",
+      "name": "fenticonazole nitrate"
+    },
+    {
+      "id": "9284",
+      "name": "Ferric carboxymaltose"
+    },
+    {
+      "id": "10505",
+      "name": "ferric citrate coordination complex"
+    },
+    {
+      "id": "637",
+      "name": "ferric hydroxide"
+    },
+    {
+      "id": "638",
+      "name": "ferric hydroxide polymaltose"
+    },
+    {
+      "id": "10506",
+      "name": "Ferric maltol"
+    },
+    {
+      "id": "642",
+      "name": "ferrous fumarate"
+    },
+    {
+      "id": "643",
+      "name": "ferrous gluconate"
+    },
+    {
+      "id": "5011",
+      "name": "ferrous sulphate heptahydrate"
+    },
+    {
+      "id": "646",
+      "name": "ferrous sulphate, dried"
+    },
+    {
+      "id": "9958",
+      "name": "Ferrum phosphoricum"
+    },
+    {
+      "id": "8914",
+      "name": "Ferumoxytol"
+    },
+    {
+      "id": "5749",
+      "name": "fesoterodine"
+    },
+    {
+      "id": "7351",
+      "name": "fexofenadine"
+    },
+    {
+      "id": "8679",
+      "name": "fexofenadine hydrochloride"
+    },
+    {
+      "id": "2965",
+      "name": "Fibrinogen, human"
+    },
+    {
+      "id": "9541",
+      "name": "fidaxomicin"
+    },
+    {
+      "id": "656",
+      "name": "filgrastim"
+    },
+    {
+      "id": "657",
+      "name": "finasteride"
+    },
+    {
+      "id": "5751",
+      "name": "fingolimod"
+    },
+    {
+      "id": "4331",
+      "name": "fish oil, rich in omega-3-acids"
+    },
+    {
+      "id": "10528",
+      "name": "florbetaben (18F)"
+    },
+    {
+      "id": "10529",
+      "name": "florbetapir (18F)"
+    },
+    {
+      "id": "10735",
+      "name": "fluciclovine (18F)"
+    },
+    {
+      "id": "660",
+      "name": "fluconazole"
+    },
+    {
+      "id": "662",
+      "name": "fludarabine"
+    },
+    {
+      "id": "4959",
+      "name": "fludarabine phosphate"
+    },
+    {
+      "id": "2975",
+      "name": "fludeoxyglucose (18F)"
+    },
+    {
+      "id": "663",
+      "name": "fludrocortisone"
+    },
+    {
+      "id": "666",
+      "name": "flumazenil"
+    },
+    {
+      "id": "667",
+      "name": "flumetasone"
+    },
+    {
+      "id": "670",
+      "name": "flunarizine"
+    },
+    {
+      "id": "673",
+      "name": "fluocinolone acetonide"
+    },
+    {
+      "id": "2982",
+      "name": "fluocortolone"
+    },
+    {
+      "id": "2244",
+      "name": "fluor-18 fluoro-dezoxyglucose"
+    },
+    {
+      "id": "675",
+      "name": "fluorescein"
+    },
+    {
+      "id": "10669",
+      "name": "Fluorodopa (18F)"
+    },
+    {
+      "id": "677",
+      "name": "fluorometholone"
+    },
+    {
+      "id": "680",
+      "name": "fluorouracil"
+    },
+    {
+      "id": "682",
+      "name": "fluoxetine"
+    },
+    {
+      "id": "684",
+      "name": "flupentixol"
+    },
+    {
+      "id": "685",
+      "name": "fluphenazine"
+    },
+    {
+      "id": "687",
+      "name": "flurbiprofen"
+    },
+    {
+      "id": "689",
+      "name": "flutamide"
+    },
+    {
+      "id": "10414",
+      "name": "Flutemetamol (18F)"
+    },
+    {
+      "id": "690",
+      "name": "fluticasone"
+    },
+    {
+      "id": "8801",
+      "name": "fluticasone furoate"
+    },
+    {
+      "id": "5053",
+      "name": "fluticasone propionate"
+    },
+    {
+      "id": "691",
+      "name": "flutrimazole"
+    },
+    {
+      "id": "692",
+      "name": "fluvastatin"
+    },
+    {
+      "id": "693",
+      "name": "fluvoxamine"
+    },
+    {
+      "id": "694",
+      "name": "Folic acid"
+    },
+    {
+      "id": "5753",
+      "name": "follitropin alfa"
+    },
+    {
+      "id": "2989",
+      "name": "follitropin beta"
+    },
+    {
+      "id": "10704",
+      "name": "follitropin delta"
+    },
+    {
+      "id": "4057",
+      "name": "fondaparinux sodium"
+    },
+    {
+      "id": "697",
+      "name": "formoterol"
+    },
+    {
+      "id": "5259",
+      "name": "formoterol fumarate dihydrate"
+    },
+    {
+      "id": "2995",
+      "name": "fosamprenavir"
+    },
+    {
+      "id": "5755",
+      "name": "fosaprepitant"
+    },
+    {
+      "id": "698",
+      "name": "foscarnet sodium"
+    },
+    {
+      "id": "700",
+      "name": "fosfomycin"
+    },
+    {
+      "id": "4892",
+      "name": "fosfomycin sodium"
+    },
+    {
+      "id": "701",
+      "name": "fosinopril"
+    },
+    {
+      "id": "703",
+      "name": "fotemustine"
+    },
+    {
+      "id": "10944",
+      "name": "fremanezumab"
+    },
+    {
+      "id": "5756",
+      "name": "frovatriptan"
+    },
+    {
+      "id": "705",
+      "name": "fructose"
+    },
+    {
+      "id": "3000",
+      "name": "fulvestrant"
+    },
+    {
+      "id": "706",
+      "name": "furosemide"
+    },
+    {
+      "id": "708",
+      "name": "fusafungine"
+    },
+    {
+      "id": "709",
+      "name": "fusidic acid"
+    },
+    {
+      "id": "711",
+      "name": "gabapentin"
+    },
+    {
+      "id": "8805",
+      "name": "gadobenate dimeglumine"
+    },
+    {
+      "id": "712",
+      "name": "gadobutrol"
+    },
+    {
+      "id": "713",
+      "name": "gadodiamide"
+    },
+    {
+      "id": "5595",
+      "name": "gadofosveset"
+    },
+    {
+      "id": "10375",
+      "name": "gadopentetate dimeglumine"
+    },
+    {
+      "id": "714",
+      "name": "gadopentetic acid"
+    },
+    {
+      "id": "2212",
+      "name": "gadoteric acid"
+    },
+    {
+      "id": "3004",
+      "name": "gadoteridol"
+    },
+    {
+      "id": "3005",
+      "name": "gadoversetamide"
+    },
+    {
+      "id": "8519",
+      "name": "gadoxetate sodium"
+    },
+    {
+      "id": "9205",
+      "name": "Galanga"
+    },
+    {
+      "id": "717",
+      "name": "galantamine"
+    },
+    {
+      "id": "10876",
+      "name": "galcanezumab"
+    },
+    {
+      "id": "3006",
+      "name": "gallium (67Ga) citrate"
+    },
+    {
+      "id": "5622",
+      "name": "galsulfase"
+    },
+    {
+      "id": "720",
+      "name": "ganciclovir"
+    },
+    {
+      "id": "721",
+      "name": "ganirelix"
+    },
+    {
+      "id": "3012",
+      "name": "gefitinib"
+    },
+    {
+      "id": "722",
+      "name": "gelatin"
+    },
+    {
+      "id": "9964",
+      "name": "Gelsemium sempervirens"
+    },
+    {
+      "id": "725",
+      "name": "gemcitabine"
+    },
+    {
+      "id": "726",
+      "name": "gemfibrozil"
+    },
+    {
+      "id": "7738",
+      "name": "gemtuzumab ozogamicin"
+    },
+    {
+      "id": "10966",
+      "name": "genetically modified autologous CD34+ cell enriched population that contains haematopoietic stem cells transduced with lentiviral vector encoding the ßA-T87Q -globin gene with a strength of 1.2-20 × 106 cell/mL"
+    },
+    {
+      "id": "728",
+      "name": "gentamicin"
+    },
+    {
+      "id": "6364",
+      "name": "Gentian root"
+    },
+    {
+      "id": "730",
+      "name": "gestodene"
+    },
+    {
+      "id": "5761",
+      "name": "gimeracil"
+    },
+    {
+      "id": "5297",
+      "name": "ginger"
+    },
+    {
+      "id": "591",
+      "name": "ginkgo dry extract, refined and quantified"
+    },
+    {
+      "id": "4866",
+      "name": "Ginseng"
+    },
+    {
+      "id": "732",
+      "name": "glatiramer acetate"
+    },
+    {
+      "id": "10747",
+      "name": "glecaprevir"
+    },
+    {
+      "id": "733",
+      "name": "glibenclamide"
+    },
+    {
+      "id": "734",
+      "name": "gliclazide"
+    },
+    {
+      "id": "735",
+      "name": "glimepiride"
+    },
+    {
+      "id": "736",
+      "name": "glipizide"
+    },
+    {
+      "id": "737",
+      "name": "gliquidone"
+    },
+    {
+      "id": "738",
+      "name": "glucagon"
+    },
+    {
+      "id": "739",
+      "name": "glucosamine"
+    },
+    {
+      "id": "9262",
+      "name": "Glucosamine hydrochloride"
+    },
+    {
+      "id": "9263",
+      "name": "Glucosamine sulfate sodium chloride"
+    },
+    {
+      "id": "740",
+      "name": "glucose"
+    },
+    {
+      "id": "4715",
+      "name": "glucose monohydrate"
+    },
+    {
+      "id": "741",
+      "name": "glucose phosphate"
+    },
+    {
+      "id": "4884",
+      "name": "glucose, anhydrous"
+    },
+    {
+      "id": "746",
+      "name": "glycerol"
+    },
+    {
+      "id": "10530",
+      "name": "glycerol phenylbutyrate"
+    },
+    {
+      "id": "749",
+      "name": "glyceryl trinitrate"
+    },
+    {
+      "id": "4006",
+      "name": "glyceryl trinitrate solution"
+    },
+    {
+      "id": "6764",
+      "name": "glycine"
+    },
+    {
+      "id": "3027",
+      "name": "glycopyrronium bromide"
+    },
+    {
+      "id": "6801",
+      "name": "goldenrod"
+    },
+    {
+      "id": "4898",
+      "name": "goldenrod, european"
+    },
+    {
+      "id": "5765",
+      "name": "golimumab"
+    },
+    {
+      "id": "759",
+      "name": "goserelin"
+    },
+    {
+      "id": "760",
+      "name": "granisetron"
+    },
+    {
+      "id": "10490",
+      "name": "grazoprevir"
+    },
+    {
+      "id": "9249",
+      "name": "Green tea leaf"
+    },
+    {
+      "id": "763",
+      "name": "guaifenesin"
+    },
+    {
+      "id": "768",
+      "name": "guanfacine"
+    },
+    {
+      "id": "5768",
+      "name": "guanfacine hydrochloride"
+    },
+    {
+      "id": "10768",
+      "name": "guselkumab"
+    },
+    {
+      "id": "4091",
+      "name": "Haemophilus b conjugate (Meningococcal Protein conjugate) and Hepatitis B vaccine"
+    },
+    {
+      "id": "770",
+      "name": "haloperidol"
+    },
+    {
+      "id": "4614",
+      "name": "hamamelis leaf"
+    },
+    {
+      "id": "4235",
+      "name": "hawthorn berries"
+    },
+    {
+      "id": "5124",
+      "name": "Hawthorn leaf and flower"
+    },
+    {
+      "id": "5120",
+      "name": "hawthorn leaf and flower dry extract"
+    },
+    {
+      "id": "774",
+      "name": "heparin"
+    },
+    {
+      "id": "7626",
+      "name": "Heparin sodium"
+    },
+    {
+      "id": "4097",
+      "name": "hepatitis a (inactivated) and hepatitis b (rDNA) vaccine (adsorbed)"
+    },
+    {
+      "id": "3053",
+      "name": "hepatitis A vaccine (inactivated, virosome)"
+    },
+    {
+      "id": "4068",
+      "name": "hepatitis B vaccine (rDNA)"
+    },
+    {
+      "id": "1172",
+      "name": "herbal extracts"
+    },
+    {
+      "id": "4005",
+      "name": "hesperidin"
+    },
+    {
+      "id": "10412",
+      "name": "Hesperidin methyl chalcone"
+    },
+    {
+      "id": "781",
+      "name": "hexachlorophene"
+    },
+    {
+      "id": "3059",
+      "name": "hexamidine"
+    },
+    {
+      "id": "2242",
+      "name": "hexaminolevulinate hydrochloride"
+    },
+    {
+      "id": "5081",
+      "name": "histamine dihydrochloride"
+    },
+    {
+      "id": "3952",
+      "name": "histidine"
+    },
+    {
+      "id": "1045",
+      "name": "homatropine methylbromide"
+    },
+    {
+      "id": "5035",
+      "name": "Hop strobile"
+    },
+    {
+      "id": "4046",
+      "name": "horse chestnut"
+    },
+    {
+      "id": "7421",
+      "name": "Human Albumin Nannocolloid"
+    },
+    {
+      "id": "2249",
+      "name": "human albumin solution"
+    },
+    {
+      "id": "10401",
+      "name": "human alpha1-proteinase inhibitor"
+    },
+    {
+      "id": "4588",
+      "name": "human anti-D immunoglobulin"
+    },
+    {
+      "id": "2696",
+      "name": "human coagulation factor IX"
+    },
+    {
+      "id": "2698",
+      "name": "human coagulation factor VIII"
+    },
+    {
+      "id": "9265",
+      "name": "Human coagulation factor X"
+    },
+    {
+      "id": "9609",
+      "name": "human coagulation factor XIII"
+    },
+    {
+      "id": "3068",
+      "name": "human fibrinogen"
+    },
+    {
+      "id": "2276",
+      "name": "human hemin"
+    },
+    {
+      "id": "5243",
+      "name": "human hepatitis B immunoglobulin"
+    },
+    {
+      "id": "4269",
+      "name": "human normal immunoglobulin"
+    },
+    {
+      "id": "4806",
+      "name": "human normal immunoglobulin for intravenous administration"
+    },
+    {
+      "id": "10507",
+      "name": "human thrombin"
+    },
+    {
+      "id": "8822",
+      "name": "human von Willebrand factor"
+    },
+    {
+      "id": "5576",
+      "name": "huminic acid"
+    },
+    {
+      "id": "790",
+      "name": "hyaluronic acid"
+    },
+    {
+      "id": "792",
+      "name": "hydrochlorothiazide"
+    },
+    {
+      "id": "793",
+      "name": "hydrocortisone"
+    },
+    {
+      "id": "4447",
+      "name": "hydrocortisone acetate"
+    },
+    {
+      "id": "2285",
+      "name": "hydrocortisone butyrate"
+    },
+    {
+      "id": "796",
+      "name": "hydromorphone"
+    },
+    {
+      "id": "797",
+      "name": "hydrotalcite"
+    },
+    {
+      "id": "798",
+      "name": "hydroxocobalamin"
+    },
+    {
+      "id": "800",
+      "name": "hydroxycarbamide"
+    },
+    {
+      "id": "801",
+      "name": "hydroxyethyl salicylate"
+    },
+    {
+      "id": "778",
+      "name": "hydroxyethyl starch"
+    },
+    {
+      "id": "803",
+      "name": "hydroxyzine"
+    },
+    {
+      "id": "10354",
+      "name": "HYNIC-[D-Phe1,Tyr3-Octreotide] trifluoroacetate"
+    },
+    {
+      "id": "2554",
+      "name": "hyoscine butylbromide"
+    },
+    {
+      "id": "10311",
+      "name": "Hyperici herbae extractum siccum"
+    },
+    {
+      "id": "806",
+      "name": "hypericin"
+    },
+    {
+      "id": "4216",
+      "name": "hypromellose"
+    },
+    {
+      "id": "8625",
+      "name": "Ibandronate sodium"
+    },
+    {
+      "id": "5782",
+      "name": "ibandronic acid"
+    },
+    {
+      "id": "4098",
+      "name": "ibritumomab tiuxetan"
+    },
+    {
+      "id": "10339",
+      "name": "Ibrutinib"
+    },
+    {
+      "id": "812",
+      "name": "ibuprofen"
+    },
+    {
+      "id": "8808",
+      "name": "ibuprofen lysine"
+    },
+    {
+      "id": "5783",
+      "name": "icatibant"
+    },
+    {
+      "id": "6998",
+      "name": "iceland Moss"
+    },
+    {
+      "id": "9268",
+      "name": "Icodextrin"
+    },
+    {
+      "id": "814",
+      "name": "idarubicin"
+    },
+    {
+      "id": "10415",
+      "name": "Idarucizumab"
+    },
+    {
+      "id": "3089",
+      "name": "idebenone"
+    },
+    {
+      "id": "10532",
+      "name": "idelalisib"
+    },
+    {
+      "id": "5601",
+      "name": "idursulfase"
+    },
+    {
+      "id": "5796",
+      "name": "ifosfamide"
+    },
+    {
+      "id": "819",
+      "name": "iloprost"
+    },
+    {
+      "id": "3091",
+      "name": "imatinib"
+    },
+    {
+      "id": "7852",
+      "name": "imatinib mesilate"
+    },
+    {
+      "id": "2203",
+      "name": "imiglucerase"
+    },
+    {
+      "id": "4009",
+      "name": "imipenem"
+    },
+    {
+      "id": "823",
+      "name": "imipramine"
+    },
+    {
+      "id": "824",
+      "name": "imiquimod"
+    },
+    {
+      "id": "2112",
+      "name": "immunglobulin"
+    },
+    {
+      "id": "2250",
+      "name": "immunglobulin (állati)"
+    },
+    {
+      "id": "2251",
+      "name": "immunglobulin (humán)"
+    },
+    {
+      "id": "5790",
+      "name": "indacaterol"
+    },
+    {
+      "id": "10280",
+      "name": "indacaterol maleate"
+    },
+    {
+      "id": "826",
+      "name": "indapamide"
+    },
+    {
+      "id": "828",
+      "name": "indinavir"
+    },
+    {
+      "id": "7403",
+      "name": "indium (111In) chloride solution"
+    },
+    {
+      "id": "829",
+      "name": "indometacin"
+    },
+    {
+      "id": "2120",
+      "name": "infliximab"
+    },
+    {
+      "id": "3109",
+      "name": "influenza vaccine (whole virion, inactivated)"
+    },
+    {
+      "id": "10382",
+      "name": "Influenza virus B Victoria (split, inactivated)"
+    },
+    {
+      "id": "10383",
+      "name": "Influenza virus B Yamagata (split, inavtivated)"
+    },
+    {
+      "id": "9718",
+      "name": "Influenza virus H1N1 (split, inactivated)"
+    },
+    {
+      "id": "9719",
+      "name": "Influenza virus H3N2 (split, inactivated)"
+    },
+    {
+      "id": "10335",
+      "name": "ingenol mebutate"
+    },
+    {
+      "id": "10770",
+      "name": "inosine-acedoben-dimepranol"
+    },
+    {
+      "id": "10867",
+      "name": "inotersen"
+    },
+    {
+      "id": "5792",
+      "name": "inotuzumab ozogamicin"
+    },
+    {
+      "id": "833",
+      "name": "insulin"
+    },
+    {
+      "id": "3119",
+      "name": "insulin aspart"
+    },
+    {
+      "id": "9879",
+      "name": "Insulin degludec"
+    },
+    {
+      "id": "3120",
+      "name": "insulin detemir"
+    },
+    {
+      "id": "836",
+      "name": "insulin glargine"
+    },
+    {
+      "id": "3121",
+      "name": "insulin glulisine"
+    },
+    {
+      "id": "837",
+      "name": "insulin human"
+    },
+    {
+      "id": "838",
+      "name": "insulin lispro"
+    },
+    {
+      "id": "5776",
+      "name": "insulin, human"
+    },
+    {
+      "id": "1619",
+      "name": "int-rac-alfa-tocopherol"
+    },
+    {
+      "id": "842",
+      "name": "interferon alfa"
+    },
+    {
+      "id": "843",
+      "name": "interferon alfa-2a"
+    },
+    {
+      "id": "844",
+      "name": "interferon alfa-2b"
+    },
+    {
+      "id": "847",
+      "name": "interferon alfacon-1"
+    },
+    {
+      "id": "849",
+      "name": "interferon beta-1a"
+    },
+    {
+      "id": "850",
+      "name": "interferon beta-1b"
+    },
+    {
+      "id": "5793",
+      "name": "interferon gamma-1b"
+    },
+    {
+      "id": "2115",
+      "name": "iobitridol"
+    },
+    {
+      "id": "852",
+      "name": "iodixanol"
+    },
+    {
+      "id": "3136",
+      "name": "ioflupane (123I)"
+    },
+    {
+      "id": "854",
+      "name": "iohexol"
+    },
+    {
+      "id": "856",
+      "name": "iomeprol"
+    },
+    {
+      "id": "857",
+      "name": "iopamidol"
+    },
+    {
+      "id": "859",
+      "name": "iopromide"
+    },
+    {
+      "id": "862",
+      "name": "ioversol"
+    },
+    {
+      "id": "3979",
+      "name": "ioxaglic acid"
+    },
+    {
+      "id": "4800",
+      "name": "ipecacuanha tincture, standardised"
+    },
+    {
+      "id": "3149",
+      "name": "ipecacuanha, prepared"
+    },
+    {
+      "id": "5794",
+      "name": "ipilimumab"
+    },
+    {
+      "id": "865",
+      "name": "ipratropium bromide"
+    },
+    {
+      "id": "867",
+      "name": "iprazochrome"
+    },
+    {
+      "id": "869",
+      "name": "irbesartan"
+    },
+    {
+      "id": "10607",
+      "name": "irbesartan hydrochloride"
+    },
+    {
+      "id": "871",
+      "name": "irinotecan"
+    },
+    {
+      "id": "8810",
+      "name": "irinotecan hydrochloride"
+    },
+    {
+      "id": "6531",
+      "name": "iris rhizome"
+    },
+    {
+      "id": "10282",
+      "name": "iron(III)isomaltozide"
+    },
+    {
+      "id": "10608",
+      "name": "isavuconazonium sulfate"
+    },
+    {
+      "id": "872",
+      "name": "isoconazole"
+    },
+    {
+      "id": "873",
+      "name": "isoflurane"
+    },
+    {
+      "id": "3949",
+      "name": "isoleucine"
+    },
+    {
+      "id": "874",
+      "name": "isoniazid"
+    },
+    {
+      "id": "878",
+      "name": "isosorbide mononitrate"
+    },
+    {
+      "id": "879",
+      "name": "isotretinoin"
+    },
+    {
+      "id": "880",
+      "name": "isradipine"
+    },
+    {
+      "id": "9153",
+      "name": "itopride hydrochloride"
+    },
+    {
+      "id": "882",
+      "name": "itraconazole"
+    },
+    {
+      "id": "5561",
+      "name": "ivabradine"
+    },
+    {
+      "id": "9859",
+      "name": "Ivabradine hydrochloride"
+    },
+    {
+      "id": "10533",
+      "name": "ivacaftor"
+    },
+    {
+      "id": "3165",
+      "name": "ivermectin"
+    },
+    {
+      "id": "4828",
+      "name": "Ivy leaf"
+    },
+    {
+      "id": "10648",
+      "name": "ixazomib"
+    },
+    {
+      "id": "10671",
+      "name": "ixekizumab"
+    },
+    {
+      "id": "2176",
+      "name": "izotópdiagnosztikum, in vivo"
+    },
+    {
+      "id": "5515",
+      "name": "Juniper"
+    },
+    {
+      "id": "10359",
+      "name": "kanadai szömörcekéreg száraz kivonat"
+    },
+    {
+      "id": "181",
+      "name": "Kaolin, heavy"
+    },
+    {
+      "id": "887",
+      "name": "ketamine"
+    },
+    {
+      "id": "888",
+      "name": "ketoconazole"
+    },
+    {
+      "id": "889",
+      "name": "ketoprofen"
+    },
+    {
+      "id": "890",
+      "name": "ketorolac"
+    },
+    {
+      "id": "891",
+      "name": "ketotifen"
+    },
+    {
+      "id": "7242",
+      "name": "L-Methionine ([11C]-methyl) injection"
+    },
+    {
+      "id": "10002",
+      "name": "Lachesis"
+    },
+    {
+      "id": "895",
+      "name": "lacidipine"
+    },
+    {
+      "id": "5805",
+      "name": "lacosamide"
+    },
+    {
+      "id": "3169",
+      "name": "lactic acid"
+    },
+    {
+      "id": "898",
+      "name": "lactobacillus fermentum"
+    },
+    {
+      "id": "8973",
+      "name": "Lactobacillus Rhamnosus GG"
+    },
+    {
+      "id": "899",
+      "name": "lactulose"
+    },
+    {
+      "id": "4267",
+      "name": "lactulose, liquid"
+    },
+    {
+      "id": "900",
+      "name": "lamivudine"
+    },
+    {
+      "id": "10609",
+      "name": "lamivudine hemihydrate"
+    },
+    {
+      "id": "901",
+      "name": "lamotrigine"
+    },
+    {
+      "id": "10881",
+      "name": "lanadelumab"
+    },
+    {
+      "id": "10340",
+      "name": "landiolol hydrochloride"
+    },
+    {
+      "id": "902",
+      "name": "lanreotide"
+    },
+    {
+      "id": "903",
+      "name": "lansoprazole"
+    },
+    {
+      "id": "2279",
+      "name": "lantan"
+    },
+    {
+      "id": "3173",
+      "name": "lanthani carbonas"
+    },
+    {
+      "id": "5807",
+      "name": "lapatinib"
+    },
+    {
+      "id": "3174",
+      "name": "laronidase"
+    },
+    {
+      "id": "5809",
+      "name": "laropiprant"
+    },
+    {
+      "id": "904",
+      "name": "latanoprost"
+    },
+    {
+      "id": "9200",
+      "name": "Lauri fructus"
+    },
+    {
+      "id": "906",
+      "name": "lauromacrogol 400"
+    },
+    {
+      "id": "6577",
+      "name": "Lavender oil"
+    },
+    {
+      "id": "10347",
+      "name": "ledipasvir"
+    },
+    {
+      "id": "907",
+      "name": "leflunomide"
+    },
+    {
+      "id": "5607",
+      "name": "lenalidomide"
+    },
+    {
+      "id": "10534",
+      "name": "lenvatinib mesilate"
+    },
+    {
+      "id": "909",
+      "name": "lepirudin"
+    },
+    {
+      "id": "910",
+      "name": "lercanidipine"
+    },
+    {
+      "id": "7547",
+      "name": "lercanidipine hydrochloride"
+    },
+    {
+      "id": "10430",
+      "name": "lesinurad"
+    },
+    {
+      "id": "10784",
+      "name": "letermovir"
+    },
+    {
+      "id": "912",
+      "name": "letrozole"
+    },
+    {
+      "id": "3946",
+      "name": "Leucine"
+    },
+    {
+      "id": "914",
+      "name": "leuprorelin"
+    },
+    {
+      "id": "915",
+      "name": "levamisole"
+    },
+    {
+      "id": "916",
+      "name": "levetiracetam"
+    },
+    {
+      "id": "917",
+      "name": "levobunolol"
+    },
+    {
+      "id": "2114",
+      "name": "levocetirizine"
+    },
+    {
+      "id": "9164",
+      "name": "Levocetirizine dihydrochloride"
+    },
+    {
+      "id": "920",
+      "name": "levodopa"
+    },
+    {
+      "id": "928",
+      "name": "levodropropizine"
+    },
+    {
+      "id": "922",
+      "name": "levofloxacin"
+    },
+    {
+      "id": "4013",
+      "name": "Levomenthol"
+    },
+    {
+      "id": "923",
+      "name": "levomepromazine"
+    },
+    {
+      "id": "4925",
+      "name": "Levomethadone hydrochloride"
+    },
+    {
+      "id": "924",
+      "name": "levonorgestrel"
+    },
+    {
+      "id": "2113",
+      "name": "levosimendan"
+    },
+    {
+      "id": "929",
+      "name": "levothyroxine sodium"
+    },
+    {
+      "id": "931",
+      "name": "lidocaine"
+    },
+    {
+      "id": "7586",
+      "name": "lidocaine hydrochloride"
+    },
+    {
+      "id": "10009",
+      "name": "Lilium lancifolium"
+    },
+    {
+      "id": "5270",
+      "name": "lime flower"
+    },
+    {
+      "id": "9855",
+      "name": "linaclotide"
+    },
+    {
+      "id": "9351",
+      "name": "linagliptin"
+    },
+    {
+      "id": "937",
+      "name": "linezolid"
+    },
+    {
+      "id": "5577",
+      "name": "linoleic acid"
+    },
+    {
+      "id": "2172",
+      "name": "liofilizált Saccharomyces boulardi"
+    },
+    {
+      "id": "9857",
+      "name": "lipegfilgrastim"
+    },
+    {
+      "id": "624",
+      "name": "lipids"
+    },
+    {
+      "id": "4630",
+      "name": "Liquorice root"
+    },
+    {
+      "id": "5818",
+      "name": "liraglutide"
+    },
+    {
+      "id": "945",
+      "name": "lisinopril"
+    },
+    {
+      "id": "4260",
+      "name": "lithium carbonate"
+    },
+    {
+      "id": "10168",
+      "name": "lixisenatide"
+    },
+    {
+      "id": "10387",
+      "name": "Lobelis inflata"
+    },
+    {
+      "id": "10326",
+      "name": "Lodoxamid"
+    },
+    {
+      "id": "10536",
+      "name": "lomitapide mesylate"
+    },
+    {
+      "id": "10705",
+      "name": "lonoctocog alfa"
+    },
+    {
+      "id": "3192",
+      "name": "loperamide"
+    },
+    {
+      "id": "5538",
+      "name": "loperamide hydrochloride"
+    },
+    {
+      "id": "955",
+      "name": "lopinavir"
+    },
+    {
+      "id": "957",
+      "name": "loratadine"
+    },
+    {
+      "id": "959",
+      "name": "lorazepam"
+    },
+    {
+      "id": "10940",
+      "name": "lorlatinib"
+    },
+    {
+      "id": "961",
+      "name": "lornoxicam"
+    },
+    {
+      "id": "962",
+      "name": "losartan"
+    },
+    {
+      "id": "7680",
+      "name": "losartan potassium"
+    },
+    {
+      "id": "5204",
+      "name": "Lovage root"
+    },
+    {
+      "id": "3195",
+      "name": "loxapine"
+    },
+    {
+      "id": "10537",
+      "name": "lumacaftor"
+    },
+    {
+      "id": "10286",
+      "name": "lurasidone"
+    },
+    {
+      "id": "10932",
+      "name": "lusutrombopag"
+    },
+    {
+      "id": "10765",
+      "name": "lutetium (177Lu) oxodotreotide"
+    },
+    {
+      "id": "10652",
+      "name": "Lutetium (177Lu)-chloride"
+    },
+    {
+      "id": "2082",
+      "name": "lutropin alfa"
+    },
+    {
+      "id": "5822",
+      "name": "lymecycline"
+    },
+    {
+      "id": "3199",
+      "name": "lysine"
+    },
+    {
+      "id": "5115",
+      "name": "lysine acetate"
+    },
+    {
+      "id": "967",
+      "name": "lysine amidotrizoate"
+    },
+    {
+      "id": "7431",
+      "name": "m-Radioiodo-benzylguanidinium-[131I]-sulfuricum (MIBG)"
+    },
+    {
+      "id": "10916",
+      "name": "macimorelin acetate"
+    },
+    {
+      "id": "8995",
+      "name": "Macitentan"
+    },
+    {
+      "id": "968",
+      "name": "macrogol"
+    },
+    {
+      "id": "4465",
+      "name": "Macrogols (type 3350)"
+    },
+    {
+      "id": "3967",
+      "name": "Magnesium"
+    },
+    {
+      "id": "4926",
+      "name": "Magnesium acetate tetrahydrate"
+    },
+    {
+      "id": "4438",
+      "name": "magnesium aspartate dihydrate"
+    },
+    {
+      "id": "9641",
+      "name": "Magnesium aspartate tetrahydrate"
+    },
+    {
+      "id": "2293",
+      "name": "magnesium carbonate"
+    },
+    {
+      "id": "4973",
+      "name": "Magnesium carbonate, heavy"
+    },
+    {
+      "id": "5281",
+      "name": "magnesium carbonate, light"
+    },
+    {
+      "id": "10014",
+      "name": "Magnesium chloride"
+    },
+    {
+      "id": "4918",
+      "name": "Magnesium chloride hexahydrate"
+    },
+    {
+      "id": "974",
+      "name": "magnesium citrate"
+    },
+    {
+      "id": "977",
+      "name": "magnesium hydroxide"
+    },
+    {
+      "id": "980",
+      "name": "magnesium lactate dihydrate"
+    },
+    {
+      "id": "8821",
+      "name": "magnesium orotate"
+    },
+    {
+      "id": "983",
+      "name": "magnesium oxide"
+    },
+    {
+      "id": "5302",
+      "name": "magnesium oxide, light"
+    },
+    {
+      "id": "10308",
+      "name": "magnesium phosphoricum for homeopathic preparations"
+    },
+    {
+      "id": "3208",
+      "name": "magnesium pidolate"
+    },
+    {
+      "id": "3994",
+      "name": "Magnesium salicylate"
+    },
+    {
+      "id": "986",
+      "name": "magnesium sulfate"
+    },
+    {
+      "id": "7746",
+      "name": "magnesium sulfate heptahydrate"
+    },
+    {
+      "id": "5107",
+      "name": "magnesium trisilicate"
+    },
+    {
+      "id": "9202",
+      "name": "Majorannae herba"
+    },
+    {
+      "id": "3212",
+      "name": "mangafodipir"
+    },
+    {
+      "id": "6567",
+      "name": "Manganese"
+    },
+    {
+      "id": "5342",
+      "name": "manganese sulphate monohydrate"
+    },
+    {
+      "id": "6520",
+      "name": "Manna"
+    },
+    {
+      "id": "9196",
+      "name": "Manna canellata"
+    },
+    {
+      "id": "991",
+      "name": "mannitol"
+    },
+    {
+      "id": "993",
+      "name": "maprotiline"
+    },
+    {
+      "id": "9320",
+      "name": "Maral root"
+    },
+    {
+      "id": "5599",
+      "name": "maraviroc"
+    },
+    {
+      "id": "4644",
+      "name": "Marshmallow root"
+    },
+    {
+      "id": "9318",
+      "name": "Mate leaf dry extract"
+    },
+    {
+      "id": "5165",
+      "name": "Matricaria flower"
+    },
+    {
+      "id": "10679",
+      "name": "matrix applied characterised autologous cultured chondrocytes"
+    },
+    {
+      "id": "996",
+      "name": "mebendazole"
+    },
+    {
+      "id": "997",
+      "name": "mebeverine"
+    },
+    {
+      "id": "3220",
+      "name": "mecasermin"
+    },
+    {
+      "id": "1000",
+      "name": "medazepam"
+    },
+    {
+      "id": "1001",
+      "name": "medicinal charcoal"
+    },
+    {
+      "id": "4012",
+      "name": "Medronic acid"
+    },
+    {
+      "id": "4161",
+      "name": "Medroxyprogesterone"
+    },
+    {
+      "id": "1004",
+      "name": "mefenamic acid"
+    },
+    {
+      "id": "1005",
+      "name": "mefloquine"
+    },
+    {
+      "id": "4312",
+      "name": "megestrol acetate"
+    },
+    {
+      "id": "10411",
+      "name": "Meglumine ioxitalamate"
+    },
+    {
+      "id": "2180",
+      "name": "melatonin"
+    },
+    {
+      "id": "4853",
+      "name": "Melissa leaf"
+    },
+    {
+      "id": "7178",
+      "name": "Melissa leaf dry extract"
+    },
+    {
+      "id": "1009",
+      "name": "meloxicam"
+    },
+    {
+      "id": "1011",
+      "name": "melphalan"
+    },
+    {
+      "id": "1012",
+      "name": "memantine"
+    },
+    {
+      "id": "10611",
+      "name": "memantine hydrochloride"
+    },
+    {
+      "id": "10739",
+      "name": "meningococcal group B vaccine (recombinant adsorbed)"
+    },
+    {
+      "id": "2186",
+      "name": "menotropin"
+    },
+    {
+      "id": "1013",
+      "name": "menthol"
+    },
+    {
+      "id": "10742",
+      "name": "menthone"
+    },
+    {
+      "id": "1016",
+      "name": "mepivacaine"
+    },
+    {
+      "id": "10423",
+      "name": "mepolizumab"
+    },
+    {
+      "id": "1018",
+      "name": "meprobamate"
+    },
+    {
+      "id": "3256",
+      "name": "mercaptamine"
+    },
+    {
+      "id": "4061",
+      "name": "Mercaptamine bitartrate"
+    },
+    {
+      "id": "1021",
+      "name": "mercaptopurine"
+    },
+    {
+      "id": "10024",
+      "name": "Mercurius solubilis Hahnemanni"
+    },
+    {
+      "id": "1023",
+      "name": "meropenem"
+    },
+    {
+      "id": "9165",
+      "name": "Meropenem trihydrate"
+    },
+    {
+      "id": "1024",
+      "name": "mesalazine"
+    },
+    {
+      "id": "1025",
+      "name": "mesna"
+    },
+    {
+      "id": "7429",
+      "name": "meso-2,3-dimercaptosussinic acid"
+    },
+    {
+      "id": "1026",
+      "name": "mesterolone"
+    },
+    {
+      "id": "1028",
+      "name": "metadoxine"
+    },
+    {
+      "id": "1030",
+      "name": "metamizole sodium monohydrate"
+    },
+    {
+      "id": "1032",
+      "name": "metformin"
+    },
+    {
+      "id": "4268",
+      "name": "metformin hydrochloride"
+    },
+    {
+      "id": "3270",
+      "name": "methadone"
+    },
+    {
+      "id": "5419",
+      "name": "methadone hydrochloride"
+    },
+    {
+      "id": "6636",
+      "name": "methionine"
+    },
+    {
+      "id": "3279",
+      "name": "methocarbamol"
+    },
+    {
+      "id": "1039",
+      "name": "methotrexate"
+    },
+    {
+      "id": "1040",
+      "name": "methoxsalen"
+    },
+    {
+      "id": "10538",
+      "name": "methoxy polyethylene glycol-epoetin beta"
+    },
+    {
+      "id": "7430",
+      "name": "methoxy-isobutyl-isonitrile-copper-tetrafluoroborate"
+    },
+    {
+      "id": "6852",
+      "name": "Methyl Salicylate"
+    },
+    {
+      "id": "1042",
+      "name": "methyldopa"
+    },
+    {
+      "id": "5830",
+      "name": "methylnaltrexone bromide"
+    },
+    {
+      "id": "1046",
+      "name": "methylphenidate"
+    },
+    {
+      "id": "7870",
+      "name": "methylphenidate hydrochloride"
+    },
+    {
+      "id": "1047",
+      "name": "methylprednisolone"
+    },
+    {
+      "id": "3290",
+      "name": "methylprednisolone aceponate"
+    },
+    {
+      "id": "2240",
+      "name": "methylthioninium chloride"
+    },
+    {
+      "id": "1052",
+      "name": "metoclopramide"
+    },
+    {
+      "id": "4814",
+      "name": "metoclopramide hydrochloride"
+    },
+    {
+      "id": "1054",
+      "name": "metoprolol"
+    },
+    {
+      "id": "4976",
+      "name": "metoprolol succinate"
+    },
+    {
+      "id": "4463",
+      "name": "metoprolol tartrate"
+    },
+    {
+      "id": "10864",
+      "name": "metreleptin"
+    },
+    {
+      "id": "1061",
+      "name": "metronidazole"
+    },
+    {
+      "id": "1064",
+      "name": "metyrapone"
+    },
+    {
+      "id": "1065",
+      "name": "mexiletine"
+    },
+    {
+      "id": "1067",
+      "name": "mianserin"
+    },
+    {
+      "id": "3305",
+      "name": "micafungin"
+    },
+    {
+      "id": "1069",
+      "name": "miconazole"
+    },
+    {
+      "id": "1071",
+      "name": "midazolam"
+    },
+    {
+      "id": "10612",
+      "name": "midazolam hydrochloride"
+    },
+    {
+      "id": "1072",
+      "name": "midodrine"
+    },
+    {
+      "id": "7272",
+      "name": "midostaurin"
+    },
+    {
+      "id": "9549",
+      "name": "mifamurtide"
+    },
+    {
+      "id": "3310",
+      "name": "mifepristone"
+    },
+    {
+      "id": "10706",
+      "name": "migalastat"
+    },
+    {
+      "id": "3312",
+      "name": "miglustat"
+    },
+    {
+      "id": "606",
+      "name": "milk thistle dry extract, refined and standardised"
+    },
+    {
+      "id": "1075",
+      "name": "milrinone"
+    },
+    {
+      "id": "1077",
+      "name": "minerals"
+    },
+    {
+      "id": "7941",
+      "name": "minoxidil"
+    },
+    {
+      "id": "9047",
+      "name": "Mirabegron"
+    },
+    {
+      "id": "1080",
+      "name": "mirtazapine"
+    },
+    {
+      "id": "1081",
+      "name": "misoprostol"
+    },
+    {
+      "id": "1084",
+      "name": "mitomycin"
+    },
+    {
+      "id": "3318",
+      "name": "mitotane"
+    },
+    {
+      "id": "1085",
+      "name": "mitoxantrone"
+    },
+    {
+      "id": "1086",
+      "name": "mivacurium chloride"
+    },
+    {
+      "id": "10539",
+      "name": "mixture of polynuclear iron(III)-oxyhydroxide, sucrose and  starches"
+    },
+    {
+      "id": "1088",
+      "name": "moclobemide"
+    },
+    {
+      "id": "10879",
+      "name": "mogamulizumab"
+    },
+    {
+      "id": "1093",
+      "name": "molsidomine"
+    },
+    {
+      "id": "1094",
+      "name": "mometasone"
+    },
+    {
+      "id": "4464",
+      "name": "mometasone furoate"
+    },
+    {
+      "id": "7948",
+      "name": "mometasone furoate hydrate"
+    },
+    {
+      "id": "1096",
+      "name": "montelukast"
+    },
+    {
+      "id": "7949",
+      "name": "montelukast sodium"
+    },
+    {
+      "id": "4100",
+      "name": "Moroctocog alfa"
+    },
+    {
+      "id": "1099",
+      "name": "morphine"
+    },
+    {
+      "id": "5522",
+      "name": "morphine hydrochloride"
+    },
+    {
+      "id": "4659",
+      "name": "Morphine sulphate"
+    },
+    {
+      "id": "6833",
+      "name": "Motherwort"
+    },
+    {
+      "id": "1103",
+      "name": "moxifloxacin"
+    },
+    {
+      "id": "7950",
+      "name": "moxifloxacin hydrochloride"
+    },
+    {
+      "id": "1104",
+      "name": "moxonidine"
+    },
+    {
+      "id": "1106",
+      "name": "mucopolysaccharids"
+    },
+    {
+      "id": "5141",
+      "name": "mullein flower"
+    },
+    {
+      "id": "1107",
+      "name": "mupirocin"
+    },
+    {
+      "id": "9780",
+      "name": "Mycobacterium bovis BCG (Bacillus Calmette-Guerin)"
+    },
+    {
+      "id": "7945",
+      "name": "mycophenolate mofetil"
+    },
+    {
+      "id": "2140",
+      "name": "mycophenolic acid"
+    },
+    {
+      "id": "10029",
+      "name": "Myristica sebifera"
+    },
+    {
+      "id": "4953",
+      "name": "Myrrh"
+    },
+    {
+      "id": "4030",
+      "name": "myrtecaine"
+    },
+    {
+      "id": "7432",
+      "name": "N-(3-bromo-2,4,6-trimethylfenyl)-iminoacetic acid"
+    },
+    {
+      "id": "1111",
+      "name": "nabumetone"
+    },
+    {
+      "id": "4554",
+      "name": "nadroparin calcium"
+    },
+    {
+      "id": "3339",
+      "name": "naftidrofuryl"
+    },
+    {
+      "id": "1115",
+      "name": "naftifine"
+    },
+    {
+      "id": "1116",
+      "name": "nalbuphine"
+    },
+    {
+      "id": "10930",
+      "name": "naldemedine"
+    },
+    {
+      "id": "1117",
+      "name": "nalidixic acid"
+    },
+    {
+      "id": "7317",
+      "name": "nalmefene"
+    },
+    {
+      "id": "10540",
+      "name": "naloxegol oxalate"
+    },
+    {
+      "id": "1119",
+      "name": "naloxone"
+    },
+    {
+      "id": "7958",
+      "name": "naloxone hydrochloride"
+    },
+    {
+      "id": "4709",
+      "name": "Naloxone hydrochloride dihydrate"
+    },
+    {
+      "id": "1120",
+      "name": "naltrexone"
+    },
+    {
+      "id": "1121",
+      "name": "nandrolone"
+    },
+    {
+      "id": "1122",
+      "name": "naphazoline"
+    },
+    {
+      "id": "1124",
+      "name": "naproxen"
+    },
+    {
+      "id": "7966",
+      "name": "naproxen sodium"
+    },
+    {
+      "id": "5626",
+      "name": "natalizumab"
+    },
+    {
+      "id": "1126",
+      "name": "natamycin"
+    },
+    {
+      "id": "1128",
+      "name": "nateglinide"
+    },
+    {
+      "id": "10332",
+      "name": "natrium sulphuricum for homeopathic preparations"
+    },
+    {
+      "id": "2138",
+      "name": "nebivolol"
+    },
+    {
+      "id": "9162",
+      "name": "nebivolol hydrochloride"
+    },
+    {
+      "id": "7461",
+      "name": "necitumumab"
+    },
+    {
+      "id": "9802",
+      "name": "Neisseria meningitidis (strain C11) Serogroup C oligosaccharide"
+    },
+    {
+      "id": "5628",
+      "name": "nelarabine"
+    },
+    {
+      "id": "1131",
+      "name": "nelfinavir"
+    },
+    {
+      "id": "4219",
+      "name": "Neomycin"
+    },
+    {
+      "id": "7976",
+      "name": "neomycin sulphate"
+    },
+    {
+      "id": "7983",
+      "name": "neostigmine methylsulfate"
+    },
+    {
+      "id": "5644",
+      "name": "nepafenac"
+    },
+    {
+      "id": "10871",
+      "name": "neratinib"
+    },
+    {
+      "id": "4144",
+      "name": "Nettle leaf"
+    },
+    {
+      "id": "8926",
+      "name": "Nettle Root powdered extract"
+    },
+    {
+      "id": "10541",
+      "name": "netupitant"
+    },
+    {
+      "id": "1138",
+      "name": "nevirapine"
+    },
+    {
+      "id": "1141",
+      "name": "nicergoline"
+    },
+    {
+      "id": "9178",
+      "name": "nicoboxil"
+    },
+    {
+      "id": "3351",
+      "name": "nicorandil"
+    },
+    {
+      "id": "1143",
+      "name": "Nicotinamide"
+    },
+    {
+      "id": "1144",
+      "name": "nicotine"
+    },
+    {
+      "id": "7868",
+      "name": "nicotinic acid"
+    },
+    {
+      "id": "1148",
+      "name": "nifedipine"
+    },
+    {
+      "id": "1149",
+      "name": "niflumic acid"
+    },
+    {
+      "id": "3355",
+      "name": "nifuratel"
+    },
+    {
+      "id": "5851",
+      "name": "nilotinib"
+    },
+    {
+      "id": "1151",
+      "name": "nilutamide"
+    },
+    {
+      "id": "1153",
+      "name": "nimesulide"
+    },
+    {
+      "id": "1154",
+      "name": "nimodipine"
+    },
+    {
+      "id": "10348",
+      "name": "nintedanib"
+    },
+    {
+      "id": "10772",
+      "name": "niraparib"
+    },
+    {
+      "id": "1155",
+      "name": "nisoldipine"
+    },
+    {
+      "id": "3362",
+      "name": "nitisinone"
+    },
+    {
+      "id": "1156",
+      "name": "nitrazepam"
+    },
+    {
+      "id": "1157",
+      "name": "nitrendipine"
+    },
+    {
+      "id": "3363",
+      "name": "nitric oxide"
+    },
+    {
+      "id": "1158",
+      "name": "nitrofurantoin"
+    },
+    {
+      "id": "2099",
+      "name": "nitrous oxide"
+    },
+    {
+      "id": "10376",
+      "name": "nivolumab"
+    },
+    {
+      "id": "3368",
+      "name": "nomegestrol"
+    },
+    {
+      "id": "3370",
+      "name": "nonacog alfa"
+    },
+    {
+      "id": "10738",
+      "name": "nonacog beta pegol"
+    },
+    {
+      "id": "10542",
+      "name": "nonacog gamma"
+    },
+    {
+      "id": "6925",
+      "name": "nonivamide"
+    },
+    {
+      "id": "4162",
+      "name": "Nonoxinol"
+    },
+    {
+      "id": "5531",
+      "name": "noradrenaline tartrate"
+    },
+    {
+      "id": "4067",
+      "name": "Norelgestromin"
+    },
+    {
+      "id": "1165",
+      "name": "norepinephrine"
+    },
+    {
+      "id": "1166",
+      "name": "norethisterone"
+    },
+    {
+      "id": "1168",
+      "name": "norfloxacin"
+    },
+    {
+      "id": "1169",
+      "name": "norgestrel"
+    },
+    {
+      "id": "10734",
+      "name": "nusinersen"
+    },
+    {
+      "id": "9310",
+      "name": "Nutmeg"
+    },
+    {
+      "id": "1174",
+      "name": "nystatin"
+    },
+    {
+      "id": "10707",
+      "name": "obeticholic acid"
+    },
+    {
+      "id": "10302",
+      "name": "obinutuzumab"
+    },
+    {
+      "id": "5857",
+      "name": "ocrelizumab"
+    },
+    {
+      "id": "10544",
+      "name": "ocriplasmin"
+    },
+    {
+      "id": "8646",
+      "name": "octenidine"
+    },
+    {
+      "id": "1177",
+      "name": "octocog alfa"
+    },
+    {
+      "id": "1178",
+      "name": "octreotide"
+    },
+    {
+      "id": "8825",
+      "name": "ofatumumab"
+    },
+    {
+      "id": "1180",
+      "name": "ofloxacin"
+    },
+    {
+      "id": "1181",
+      "name": "olaflur"
+    },
+    {
+      "id": "1182",
+      "name": "olanzapine"
+    },
+    {
+      "id": "8032",
+      "name": "olanzapine pamoate monohydrate"
+    },
+    {
+      "id": "10342",
+      "name": "olaparib"
+    },
+    {
+      "id": "10708",
+      "name": "olaratumab"
+    },
+    {
+      "id": "4131",
+      "name": "Olive Oil, Refined"
+    },
+    {
+      "id": "2210",
+      "name": "olmesartan"
+    },
+    {
+      "id": "5862",
+      "name": "olmesartan medoxomil"
+    },
+    {
+      "id": "8927",
+      "name": "Olodaterol"
+    },
+    {
+      "id": "1185",
+      "name": "olopatadine"
+    },
+    {
+      "id": "8035",
+      "name": "olopatadine hydrochloride"
+    },
+    {
+      "id": "3379",
+      "name": "omalizumab"
+    },
+    {
+      "id": "10345",
+      "name": "ombitasvir"
+    },
+    {
+      "id": "5034",
+      "name": "omega-3-acid ethyl esters 90"
+    },
+    {
+      "id": "3380",
+      "name": "omega-3-acid triglycerides"
+    },
+    {
+      "id": "1187",
+      "name": "omeprazole"
+    },
+    {
+      "id": "1188",
+      "name": "omoconazole"
+    },
+    {
+      "id": "4156",
+      "name": "Ondansetron"
+    },
+    {
+      "id": "10709",
+      "name": "opicapone"
+    },
+    {
+      "id": "10035",
+      "name": "opium"
+    },
+    {
+      "id": "10545",
+      "name": "oritavancin diphosphate"
+    },
+    {
+      "id": "1192",
+      "name": "orlistat"
+    },
+    {
+      "id": "1195",
+      "name": "ornithine aspartate"
+    },
+    {
+      "id": "3385",
+      "name": "orphenadrine citrate"
+    },
+    {
+      "id": "9563",
+      "name": "Orvosi füstike kivonat"
+    },
+    {
+      "id": "1196",
+      "name": "oseltamivir"
+    },
+    {
+      "id": "10418",
+      "name": "osimertinib"
+    },
+    {
+      "id": "10546",
+      "name": "ospemifen"
+    },
+    {
+      "id": "9543",
+      "name": "oteracil"
+    },
+    {
+      "id": "1198",
+      "name": "otilonium bromide"
+    },
+    {
+      "id": "9844",
+      "name": "Outer membrane vesicles (OMV) from  Neisseria meningitidis group B"
+    },
+    {
+      "id": "1200",
+      "name": "oxaliplatin"
+    },
+    {
+      "id": "3397",
+      "name": "oxcarbazepine"
+    },
+    {
+      "id": "1203",
+      "name": "oxedrine"
+    },
+    {
+      "id": "10466",
+      "name": "oxerutin"
+    },
+    {
+      "id": "1208",
+      "name": "oxybuprocaine"
+    },
+    {
+      "id": "4045",
+      "name": "Oxybutynin"
+    },
+    {
+      "id": "1210",
+      "name": "oxycodone"
+    },
+    {
+      "id": "4688",
+      "name": "oxycodone hydrochloride"
+    },
+    {
+      "id": "3408",
+      "name": "oxygen"
+    },
+    {
+      "id": "1211",
+      "name": "oxymetazoline"
+    },
+    {
+      "id": "1213",
+      "name": "oxytetracycline"
+    },
+    {
+      "id": "1215",
+      "name": "oxytocin"
+    },
+    {
+      "id": "1219",
+      "name": "paclitaxel"
+    },
+    {
+      "id": "10771",
+      "name": "padeliporfin"
+    },
+    {
+      "id": "10405",
+      "name": "palbociclib"
+    },
+    {
+      "id": "6986",
+      "name": "Pale Coneflower Root"
+    },
+    {
+      "id": "5624",
+      "name": "palifermin"
+    },
+    {
+      "id": "5620",
+      "name": "paliperidone"
+    },
+    {
+      "id": "2178",
+      "name": "palivizumab"
+    },
+    {
+      "id": "4445",
+      "name": "palmitic acid"
+    },
+    {
+      "id": "5602",
+      "name": "palonosetron"
+    },
+    {
+      "id": "8526",
+      "name": "palonosetron hydrochloride"
+    },
+    {
+      "id": "1220",
+      "name": "pamidronic acid"
+    },
+    {
+      "id": "9657",
+      "name": "panax ginseng extractum"
+    },
+    {
+      "id": "4196",
+      "name": "Pancreas powder"
+    },
+    {
+      "id": "1221",
+      "name": "pancreatin"
+    },
+    {
+      "id": "5597",
+      "name": "panitumumab"
+    },
+    {
+      "id": "10397",
+      "name": "panobinostat"
+    },
+    {
+      "id": "1225",
+      "name": "pantoprazole"
+    },
+    {
+      "id": "9141",
+      "name": "pantoprazole sodium sesquihydrate"
+    },
+    {
+      "id": "1226",
+      "name": "papaverine"
+    },
+    {
+      "id": "4122",
+      "name": "Papaverine Hydrochloride"
+    },
+    {
+      "id": "9198",
+      "name": "Pappel"
+    },
+    {
+      "id": "1228",
+      "name": "paracetamol"
+    },
+    {
+      "id": "5585",
+      "name": "paraffin"
+    },
+    {
+      "id": "3187",
+      "name": "paraffin, liquid"
+    },
+    {
+      "id": "5630",
+      "name": "parathyroid hormone"
+    },
+    {
+      "id": "2173",
+      "name": "parecoxib"
+    },
+    {
+      "id": "2230",
+      "name": "paricalcitol"
+    },
+    {
+      "id": "10344",
+      "name": "paritaprevir"
+    },
+    {
+      "id": "1231",
+      "name": "parnaparin sodium"
+    },
+    {
+      "id": "1232",
+      "name": "paroxetine"
+    },
+    {
+      "id": "9560",
+      "name": "pasireotide"
+    },
+    {
+      "id": "10039",
+      "name": "Passiflora incarnata"
+    },
+    {
+      "id": "6370",
+      "name": "Passion flower"
+    },
+    {
+      "id": "6231",
+      "name": "Passion flower dry extract"
+    },
+    {
+      "id": "5175",
+      "name": "patent blue V"
+    },
+    {
+      "id": "10758",
+      "name": "patiromer"
+    },
+    {
+      "id": "10843",
+      "name": "patisiran"
+    },
+    {
+      "id": "5867",
+      "name": "pazopanib"
+    },
+    {
+      "id": "5590",
+      "name": "pegaptanib"
+    },
+    {
+      "id": "3428",
+      "name": "pegaspargase"
+    },
+    {
+      "id": "3429",
+      "name": "pegfilgrastim"
+    },
+    {
+      "id": "2185",
+      "name": "peginterferon alfa-2a"
+    },
+    {
+      "id": "1234",
+      "name": "peginterferon alfa-2b"
+    },
+    {
+      "id": "10300",
+      "name": "peginterferon beta-1a"
+    },
+    {
+      "id": "10676",
+      "name": "pegloticase"
+    },
+    {
+      "id": "10942",
+      "name": "pegvaliase"
+    },
+    {
+      "id": "3430",
+      "name": "pegvisomant"
+    },
+    {
+      "id": "9482",
+      "name": "Pelargonium root"
+    },
+    {
+      "id": "9248",
+      "name": "Pelargonium root tincture"
+    },
+    {
+      "id": "10372",
+      "name": "Pembrolizumab"
+    },
+    {
+      "id": "3431",
+      "name": "pemetrexed"
+    },
+    {
+      "id": "5870",
+      "name": "pemetrexed disodium"
+    },
+    {
+      "id": "3432",
+      "name": "penamecillin"
+    },
+    {
+      "id": "1236",
+      "name": "penciclovir"
+    },
+    {
+      "id": "1246",
+      "name": "pentosan polysulfate sodium"
+    },
+    {
+      "id": "1247",
+      "name": "pentoxifylline"
+    },
+    {
+      "id": "4672",
+      "name": "Peppermint leaf"
+    },
+    {
+      "id": "5202",
+      "name": "peppermint oil"
+    },
+    {
+      "id": "1251",
+      "name": "pepsin"
+    },
+    {
+      "id": "5871",
+      "name": "peramivir"
+    },
+    {
+      "id": "8929",
+      "name": "Perampanel"
+    },
+    {
+      "id": "1176",
+      "name": "perflutren"
+    },
+    {
+      "id": "1253",
+      "name": "perindopril"
+    },
+    {
+      "id": "10331",
+      "name": "perindopril arginine"
+    },
+    {
+      "id": "8115",
+      "name": "perindopril erbumine"
+    },
+    {
+      "id": "4263",
+      "name": "perindopril tert-butylamine"
+    },
+    {
+      "id": "1254",
+      "name": "permethrin"
+    },
+    {
+      "id": "4079",
+      "name": "Pertussis Vaccine (Acellular, Component, Adsorbed)"
+    },
+    {
+      "id": "5873",
+      "name": "pertuzumab"
+    },
+    {
+      "id": "4139",
+      "name": "Peru Balsam"
+    },
+    {
+      "id": "1245",
+      "name": "pethidine"
+    },
+    {
+      "id": "1255",
+      "name": "phenacetin"
+    },
+    {
+      "id": "1256",
+      "name": "phenazone"
+    },
+    {
+      "id": "8121",
+      "name": "pheniramine maleate"
+    },
+    {
+      "id": "1261",
+      "name": "phenobarbital"
+    },
+    {
+      "id": "3459",
+      "name": "phenol"
+    },
+    {
+      "id": "1264",
+      "name": "phenolphthalein"
+    },
+    {
+      "id": "5150",
+      "name": "phenoxyethanol"
+    },
+    {
+      "id": "1268",
+      "name": "phenoxymethylpenicillin"
+    },
+    {
+      "id": "3950",
+      "name": "Phenylalanine"
+    },
+    {
+      "id": "1270",
+      "name": "phenylbutazone"
+    },
+    {
+      "id": "1272",
+      "name": "phenylephrine"
+    },
+    {
+      "id": "8134",
+      "name": "phenylephrine hydrochloride"
+    },
+    {
+      "id": "1276",
+      "name": "phenytoin"
+    },
+    {
+      "id": "5875",
+      "name": "phosphatidylcholine"
+    },
+    {
+      "id": "7434",
+      "name": "Phytic and dodrcasodium salt hydrate"
+    },
+    {
+      "id": "10044",
+      "name": "Phytolacca americana"
+    },
+    {
+      "id": "1280",
+      "name": "Phytomenadione"
+    },
+    {
+      "id": "10749",
+      "name": "pibrentasvir"
+    },
+    {
+      "id": "1282",
+      "name": "pilocarpine"
+    },
+    {
+      "id": "5501",
+      "name": "pilocarpine hydrochloride"
+    },
+    {
+      "id": "2141",
+      "name": "pimecrolimus"
+    },
+    {
+      "id": "6528",
+      "name": "Pimentae fructus"
+    },
+    {
+      "id": "1286",
+      "name": "pinaverium"
+    },
+    {
+      "id": "1287",
+      "name": "pindolol"
+    },
+    {
+      "id": "6287",
+      "name": "pine sylvestris oil"
+    },
+    {
+      "id": "3478",
+      "name": "pioglitazone"
+    },
+    {
+      "id": "8346",
+      "name": "pioglitazone hydrochloride"
+    },
+    {
+      "id": "1290",
+      "name": "pipecuronium bromide"
+    },
+    {
+      "id": "1291",
+      "name": "piperacillin"
+    },
+    {
+      "id": "4984",
+      "name": "piperacillin sodium"
+    },
+    {
+      "id": "10547",
+      "name": "piperaquine phosphate"
+    },
+    {
+      "id": "1295",
+      "name": "piracetam"
+    },
+    {
+      "id": "10355",
+      "name": "pirfenidone"
+    },
+    {
+      "id": "6873",
+      "name": "piridoxin-hidroklorid"
+    },
+    {
+      "id": "1300",
+      "name": "piroxicam"
+    },
+    {
+      "id": "10548",
+      "name": "pitolisant hydrochloride"
+    },
+    {
+      "id": "5877",
+      "name": "pixantrone"
+    },
+    {
+      "id": "2142",
+      "name": "plasma proteins"
+    },
+    {
+      "id": "8835",
+      "name": "plerixafor"
+    },
+    {
+      "id": "9781",
+      "name": "Pneumococcal polysaccharide serotypes 1"
+    },
+    {
+      "id": "9789",
+      "name": "Pneumococcal polysaccharide serotypes 14"
+    },
+    {
+      "id": "9790",
+      "name": "pneumococcal polysaccharide serotypes 18C"
+    },
+    {
+      "id": "9791",
+      "name": "Pneumococcal polysaccharide serotypes 19A"
+    },
+    {
+      "id": "9792",
+      "name": "Pneumococcal polysaccharide serotypes 19F"
+    },
+    {
+      "id": "9793",
+      "name": "Pneumococcal polysaccharide serotypes 23F"
+    },
+    {
+      "id": "9782",
+      "name": "Pneumococcal polysaccharide serotypes 3"
+    },
+    {
+      "id": "9783",
+      "name": "Pneumococcal polysaccharide serotypes 4"
+    },
+    {
+      "id": "9784",
+      "name": "Pneumococcal polysaccharide serotypes 5"
+    },
+    {
+      "id": "9786",
+      "name": "Pneumococcal polysaccharide serotypes 6B"
+    },
+    {
+      "id": "9787",
+      "name": "Pneumococcal polysaccharide serotypes 7F"
+    },
+    {
+      "id": "9788",
+      "name": "Pneumococcal polysaccharide serotypes 9V"
+    },
+    {
+      "id": "1306",
+      "name": "podophyllotoxin"
+    },
+    {
+      "id": "1308",
+      "name": "policresulen"
+    },
+    {
+      "id": "4075",
+      "name": "Poliomyelitis Vaccines, inactivated, type 1"
+    },
+    {
+      "id": "4076",
+      "name": "Poliomyelitis Vaccines, inactivated, type 2"
+    },
+    {
+      "id": "8847",
+      "name": "Poliomyelitis Vaccines, inactivated, type 3"
+    },
+    {
+      "id": "1311",
+      "name": "polymyxin B"
+    },
+    {
+      "id": "10422",
+      "name": "pomalidomide"
+    },
+    {
+      "id": "10337",
+      "name": "ponatinib"
+    },
+    {
+      "id": "2179",
+      "name": "porfimer sodium"
+    },
+    {
+      "id": "5563",
+      "name": "posaconazole"
+    },
+    {
+      "id": "4038",
+      "name": "potassium aspartate"
+    },
+    {
+      "id": "1305",
+      "name": "potassium chloride"
+    },
+    {
+      "id": "1321",
+      "name": "potassium citrate"
+    },
+    {
+      "id": "4559",
+      "name": "potassium clavulanate, diluted"
+    },
+    {
+      "id": "4902",
+      "name": "Potassium dihydrogen phosphate"
+    },
+    {
+      "id": "4365",
+      "name": "potassium hydrogen carbonate"
+    },
+    {
+      "id": "1322",
+      "name": "potassium iodide"
+    },
+    {
+      "id": "4580",
+      "name": "Potassium sulphate"
+    },
+    {
+      "id": "1325",
+      "name": "povidone"
+    },
+    {
+      "id": "1327",
+      "name": "povidone iodinated"
+    },
+    {
+      "id": "1328",
+      "name": "prajmaline"
+    },
+    {
+      "id": "1329",
+      "name": "pramipexole"
+    },
+    {
+      "id": "9854",
+      "name": "pramipexole dihydrochloride monohydrate"
+    },
+    {
+      "id": "3529",
+      "name": "prasterone"
+    },
+    {
+      "id": "5879",
+      "name": "prasugrel"
+    },
+    {
+      "id": "1331",
+      "name": "pravastatin"
+    },
+    {
+      "id": "5391",
+      "name": "pravastatin sodium"
+    },
+    {
+      "id": "1333",
+      "name": "prazosin"
+    },
+    {
+      "id": "2221",
+      "name": "Precipitated sulfur"
+    },
+    {
+      "id": "1335",
+      "name": "prednisolone"
+    },
+    {
+      "id": "1337",
+      "name": "prednisone"
+    },
+    {
+      "id": "4084",
+      "name": "pregabalin"
+    },
+    {
+      "id": "1338",
+      "name": "prenoxdiazine"
+    },
+    {
+      "id": "3536",
+      "name": "prilocaine"
+    },
+    {
+      "id": "4974",
+      "name": "prilocaine hydrochloride"
+    },
+    {
+      "id": "1341",
+      "name": "primidone"
+    },
+    {
+      "id": "5582",
+      "name": "primycin"
+    },
+    {
+      "id": "4823",
+      "name": "procainamide hydrochloride"
+    },
+    {
+      "id": "1346",
+      "name": "procaine"
+    },
+    {
+      "id": "7619",
+      "name": "procaine hydrochloride"
+    },
+    {
+      "id": "1347",
+      "name": "procaine penicillin"
+    },
+    {
+      "id": "1353",
+      "name": "procyanidol oligomerisatum"
+    },
+    {
+      "id": "1354",
+      "name": "procyclidine"
+    },
+    {
+      "id": "1355",
+      "name": "progesterone"
+    },
+    {
+      "id": "2262",
+      "name": "proguanil"
+    },
+    {
+      "id": "3953",
+      "name": "proline"
+    },
+    {
+      "id": "1357",
+      "name": "promethazine"
+    },
+    {
+      "id": "8437",
+      "name": "propafenone"
+    },
+    {
+      "id": "1362",
+      "name": "propofol"
+    },
+    {
+      "id": "1364",
+      "name": "propranolol"
+    },
+    {
+      "id": "1365",
+      "name": "propylthiouracil"
+    },
+    {
+      "id": "2288",
+      "name": "propyphenazone"
+    },
+    {
+      "id": "4594",
+      "name": "protamine hydrochloride"
+    },
+    {
+      "id": "3560",
+      "name": "Protein C"
+    },
+    {
+      "id": "10549",
+      "name": "prucalopride succinate"
+    },
+    {
+      "id": "2228",
+      "name": "prulifloxacin"
+    },
+    {
+      "id": "1375",
+      "name": "pseudoephedrine"
+    },
+    {
+      "id": "5337",
+      "name": "pseudoephedrine hydrochloride"
+    },
+    {
+      "id": "9131",
+      "name": "Pumpkin seed oil"
+    },
+    {
+      "id": "6913",
+      "name": "Purple coneflower herb"
+    },
+    {
+      "id": "6930",
+      "name": "purple coneflower root"
+    },
+    {
+      "id": "1379",
+      "name": "pyrazinamide"
+    },
+    {
+      "id": "1381",
+      "name": "pyridostigmine bromide"
+    },
+    {
+      "id": "4120",
+      "name": "Pyridoxine"
+    },
+    {
+      "id": "7678",
+      "name": "pyridoxine hydrochloride"
+    },
+    {
+      "id": "1384",
+      "name": "pyrithione zinc"
+    },
+    {
+      "id": "1387",
+      "name": "quetiapine"
+    },
+    {
+      "id": "1388",
+      "name": "quinagolide"
+    },
+    {
+      "id": "1389",
+      "name": "quinapril"
+    },
+    {
+      "id": "1392",
+      "name": "quinidine"
+    },
+    {
+      "id": "8054",
+      "name": "Quinine sulfate"
+    },
+    {
+      "id": "1394",
+      "name": "rabeprazole"
+    },
+    {
+      "id": "9757",
+      "name": "Rabies virus strain Flury LEP (inactivated)"
+    },
+    {
+      "id": "9772",
+      "name": "Rabies virus, Wistar Rabies PM/WI38 1503-3M strain (inactivated)"
+    },
+    {
+      "id": "2359",
+      "name": "racecadotril"
+    },
+    {
+      "id": "10271",
+      "name": "radium (223Ra) dichloride"
+    },
+    {
+      "id": "1395",
+      "name": "raloxifene"
+    },
+    {
+      "id": "7696",
+      "name": "raloxifene hydrochloride"
+    },
+    {
+      "id": "5643",
+      "name": "raltegravir"
+    },
+    {
+      "id": "10550",
+      "name": "raltegravir potassium"
+    },
+    {
+      "id": "1396",
+      "name": "raltitrexed"
+    },
+    {
+      "id": "1397",
+      "name": "ramipril"
+    },
+    {
+      "id": "10349",
+      "name": "ramucirumab"
+    },
+    {
+      "id": "5586",
+      "name": "ranibizumab"
+    },
+    {
+      "id": "1398",
+      "name": "ranitidine"
+    },
+    {
+      "id": "5616",
+      "name": "ranolazine"
+    },
+    {
+      "id": "3594",
+      "name": "rasagiline"
+    },
+    {
+      "id": "10352",
+      "name": "rasagiline tartrate"
+    },
+    {
+      "id": "2083",
+      "name": "rasburicase"
+    },
+    {
+      "id": "9291",
+      "name": "Raspberry leaf"
+    },
+    {
+      "id": "1400",
+      "name": "reboxetine"
+    },
+    {
+      "id": "10509",
+      "name": "recombinant human granulocyte colony-stimulating factor"
+    },
+    {
+      "id": "9843",
+      "name": "Recombinant Neisseria meningitidis  group B fHbp fusion protein"
+    },
+    {
+      "id": "9841",
+      "name": "Recombinant Neisseria meningitidis  group B NHBA fusion protein"
+    },
+    {
+      "id": "9842",
+      "name": "Recombinant Neisseria meningitidis group B NadA protein"
+    },
+    {
+      "id": "10551",
+      "name": "regadenoson"
+    },
+    {
+      "id": "8990",
+      "name": "Regorafenib"
+    },
+    {
+      "id": "1401",
+      "name": "remifentanil"
+    },
+    {
+      "id": "1402",
+      "name": "repaglinide"
+    },
+    {
+      "id": "10710",
+      "name": "reslizumab"
+    },
+    {
+      "id": "3600",
+      "name": "Resorcinol"
+    },
+    {
+      "id": "5974",
+      "name": "retapamulin"
+    },
+    {
+      "id": "3601",
+      "name": "Reteplase"
+    },
+    {
+      "id": "5891",
+      "name": "retigabine"
+    },
+    {
+      "id": "1406",
+      "name": "retinol"
+    },
+    {
+      "id": "10055",
+      "name": "Rheum officinale"
+    },
+    {
+      "id": "10687",
+      "name": "Rhodiola rosea arctic root dry extract"
+    },
+    {
+      "id": "4574",
+      "name": "Rhubarb"
+    },
+    {
+      "id": "8963",
+      "name": "Rhubarb dry extract"
+    },
+    {
+      "id": "1410",
+      "name": "ribavirin"
+    },
+    {
+      "id": "10753",
+      "name": "ribociclib"
+    },
+    {
+      "id": "5155",
+      "name": "ribwort plantain"
+    },
+    {
+      "id": "1412",
+      "name": "rifampicin"
+    },
+    {
+      "id": "4239",
+      "name": "rifamycin sodium"
+    },
+    {
+      "id": "1414",
+      "name": "rifaximin"
+    },
+    {
+      "id": "1415",
+      "name": "rilmenidine"
+    },
+    {
+      "id": "10424",
+      "name": "Rilpivirine"
+    },
+    {
+      "id": "10631",
+      "name": "rilpivirine hydrochloride"
+    },
+    {
+      "id": "1416",
+      "name": "riluzole"
+    },
+    {
+      "id": "5899",
+      "name": "rimonabant"
+    },
+    {
+      "id": "10287",
+      "name": "Riociguat"
+    },
+    {
+      "id": "10941",
+      "name": "risankizumab"
+    },
+    {
+      "id": "7742",
+      "name": "risedronate sodium"
+    },
+    {
+      "id": "1419",
+      "name": "risedronic acid"
+    },
+    {
+      "id": "1420",
+      "name": "risperidone"
+    },
+    {
+      "id": "1423",
+      "name": "ritonavir"
+    },
+    {
+      "id": "2122",
+      "name": "rituximab"
+    },
+    {
+      "id": "5901",
+      "name": "rivaroxaban"
+    },
+    {
+      "id": "1425",
+      "name": "rivastigmine"
+    },
+    {
+      "id": "9240",
+      "name": "Rivastigmine hydrogen tartrate"
+    },
+    {
+      "id": "1426",
+      "name": "rizatriptan"
+    },
+    {
+      "id": "10059",
+      "name": "Robinia pseudo-acacia"
+    },
+    {
+      "id": "1427",
+      "name": "rocuronium bromide"
+    },
+    {
+      "id": "5618",
+      "name": "roflumilast"
+    },
+    {
+      "id": "10632",
+      "name": "roflumilast, micronized"
+    },
+    {
+      "id": "10733",
+      "name": "rolapitant"
+    },
+    {
+      "id": "6814",
+      "name": "romiplostim"
+    },
+    {
+      "id": "10933",
+      "name": "ropeginterferon alfa 2b"
+    },
+    {
+      "id": "1429",
+      "name": "ropinirole"
+    },
+    {
+      "id": "1430",
+      "name": "ropivacaine"
+    },
+    {
+      "id": "4444",
+      "name": "Rosemary leaf"
+    },
+    {
+      "id": "4956",
+      "name": "Rosemary oil"
+    },
+    {
+      "id": "1431",
+      "name": "rosiglitazone"
+    },
+    {
+      "id": "2201",
+      "name": "rosuvastatin"
+    },
+    {
+      "id": "8127",
+      "name": "rosuvastatin calcium"
+    },
+    {
+      "id": "5564",
+      "name": "rotigotine"
+    },
+    {
+      "id": "1434",
+      "name": "roxithromycin"
+    },
+    {
+      "id": "10366",
+      "name": "RRR-alfa-Tocopheryl acetate"
+    },
+    {
+      "id": "9321",
+      "name": "Rubi fructiosi folium"
+    },
+    {
+      "id": "10838",
+      "name": "rucaparib"
+    },
+    {
+      "id": "5613",
+      "name": "rufinamide"
+    },
+    {
+      "id": "2291",
+      "name": "rupatadine"
+    },
+    {
+      "id": "10780",
+      "name": "Rurioctocog Alfa Pegol"
+    },
+    {
+      "id": "1437",
+      "name": "rutoside"
+    },
+    {
+      "id": "9561",
+      "name": "ruxolitinib"
+    },
+    {
+      "id": "10468",
+      "name": "sacubitril"
+    },
+    {
+      "id": "10634",
+      "name": "safinamide methanesulfonate"
+    },
+    {
+      "id": "6090",
+      "name": "sage leaf (salvia officinalis)"
+    },
+    {
+      "id": "1438",
+      "name": "salbutamol"
+    },
+    {
+      "id": "5196",
+      "name": "salbutamol sulphate"
+    },
+    {
+      "id": "1441",
+      "name": "salicylic acid"
+    },
+    {
+      "id": "1443",
+      "name": "salmeterol"
+    },
+    {
+      "id": "4394",
+      "name": "salmeterol xinafoate"
+    },
+    {
+      "id": "3624",
+      "name": "samarium (153Sm) lexidronam"
+    },
+    {
+      "id": "5631",
+      "name": "sapropterin"
+    },
+    {
+      "id": "1445",
+      "name": "saquinavir"
+    },
+    {
+      "id": "10754",
+      "name": "sarilumab"
+    },
+    {
+      "id": "4825",
+      "name": "saw palmetto fruit"
+    },
+    {
+      "id": "5910",
+      "name": "saxagliptin"
+    },
+    {
+      "id": "10552",
+      "name": "sebelipase alfa"
+    },
+    {
+      "id": "10357",
+      "name": "secukinumab"
+    },
+    {
+      "id": "1447",
+      "name": "selegiline"
+    },
+    {
+      "id": "2257",
+      "name": "selenium"
+    },
+    {
+      "id": "10553",
+      "name": "selexipag"
+    },
+    {
+      "id": "10840",
+      "name": "semaglutide"
+    },
+    {
+      "id": "1448",
+      "name": "senna glycosides"
+    },
+    {
+      "id": "4666",
+      "name": "senna leaf"
+    },
+    {
+      "id": "4300",
+      "name": "senna pods, alexandrian"
+    },
+    {
+      "id": "1449",
+      "name": "serenoa repens"
+    },
+    {
+      "id": "3947",
+      "name": "serine"
+    },
+    {
+      "id": "7436",
+      "name": "Seroalbuminum Humanum Macroaggregatum"
+    },
+    {
+      "id": "3638",
+      "name": "sertaconazole"
+    },
+    {
+      "id": "1450",
+      "name": "sertindole"
+    },
+    {
+      "id": "1452",
+      "name": "sertraline"
+    },
+    {
+      "id": "7842",
+      "name": "sertraline hydrochloride"
+    },
+    {
+      "id": "2129",
+      "name": "sevelamer"
+    },
+    {
+      "id": "8055",
+      "name": "sevelamer carbonate"
+    },
+    {
+      "id": "8056",
+      "name": "sevelamer hydrochloride"
+    },
+    {
+      "id": "1454",
+      "name": "sevoflurane"
+    },
+    {
+      "id": "1456",
+      "name": "sildenafil"
+    },
+    {
+      "id": "7846",
+      "name": "sildenafil citrate"
+    },
+    {
+      "id": "3989",
+      "name": "silibinin"
+    },
+    {
+      "id": "9326",
+      "name": "silodosin"
+    },
+    {
+      "id": "10338",
+      "name": "siltuximab"
+    },
+    {
+      "id": "1466",
+      "name": "silymarin"
+    },
+    {
+      "id": "10298",
+      "name": "simeprevir"
+    },
+    {
+      "id": "5913",
+      "name": "simeticone"
+    },
+    {
+      "id": "10362",
+      "name": "Simoctocog Alfa"
+    },
+    {
+      "id": "1467",
+      "name": "simvastatin"
+    },
+    {
+      "id": "1469",
+      "name": "sirolimus"
+    },
+    {
+      "id": "5914",
+      "name": "sitagliptin"
+    },
+    {
+      "id": "10636",
+      "name": "sitagliptin phosphate"
+    },
+    {
+      "id": "8826",
+      "name": "sitaxentan sodium"
+    },
+    {
+      "id": "10391",
+      "name": "Smilax (Sarsaparilla)"
+    },
+    {
+      "id": "3647",
+      "name": "Sodium acetate"
+    },
+    {
+      "id": "5371",
+      "name": "sodium acetate trihydrate"
+    },
+    {
+      "id": "5398",
+      "name": "sodium alginate"
+    },
+    {
+      "id": "8344",
+      "name": "sodium ascorbate"
+    },
+    {
+      "id": "4212",
+      "name": "sodium benzoate"
+    },
+    {
+      "id": "4003",
+      "name": "sodium bromide"
+    },
+    {
+      "id": "1475",
+      "name": "sodium chloride"
+    },
+    {
+      "id": "7396",
+      "name": "sodium chromate (51Cr) sterile solution"
+    },
+    {
+      "id": "1477",
+      "name": "sodium citrate"
+    },
+    {
+      "id": "10833",
+      "name": "sodium citrate anhydrous"
+    },
+    {
+      "id": "8336",
+      "name": "sodium cromoglicate"
+    },
+    {
+      "id": "4113",
+      "name": "sodium dihydrogen phosphate dihydrate"
+    },
+    {
+      "id": "1479",
+      "name": "sodium fluoride"
+    },
+    {
+      "id": "7437",
+      "name": "sodium fytate"
+    },
+    {
+      "id": "2174",
+      "name": "sodium glycerophosphate, hydrated"
+    },
+    {
+      "id": "8962",
+      "name": "Sodium hyaluronidase"
+    },
+    {
+      "id": "1473",
+      "name": "sodium hydrogen carbonate"
+    },
+    {
+      "id": "9104",
+      "name": "Sodium hypophosphite"
+    },
+    {
+      "id": "7422",
+      "name": "sodium iodide (123I) solution for radiolabelling"
+    },
+    {
+      "id": "3658",
+      "name": "sodium iodide (131I)"
+    },
+    {
+      "id": "1482",
+      "name": "sodium lactate"
+    },
+    {
+      "id": "4874",
+      "name": "sodium lactate solution"
+    },
+    {
+      "id": "10692",
+      "name": "sodium lauryl sulfoacetate"
+    },
+    {
+      "id": "3078",
+      "name": "sodium oxybate"
+    },
+    {
+      "id": "3665",
+      "name": "sodium phenylbutyrate"
+    },
+    {
+      "id": "3667",
+      "name": "sodium phosphate (32P)"
+    },
+    {
+      "id": "1487",
+      "name": "sodium picosulfate"
+    },
+    {
+      "id": "4001",
+      "name": "Sodium polystyrene sulphonate"
+    },
+    {
+      "id": "7438",
+      "name": "sodium pyrophosphate"
+    },
+    {
+      "id": "1489",
+      "name": "sodium samarium disulfosalicylate"
+    },
+    {
+      "id": "8976",
+      "name": "Sodium samarium sulfosalicylate, anhydrate"
+    },
+    {
+      "id": "3669",
+      "name": "sodium selenite"
+    },
+    {
+      "id": "4791",
+      "name": "sodium sulphate, anhydrous"
+    },
+    {
+      "id": "1490",
+      "name": "sodium tetradecyl sulfate"
+    },
+    {
+      "id": "8455",
+      "name": "sodium valproate"
+    },
+    {
+      "id": "10841",
+      "name": "sodium zirconium cyclosilicate"
+    },
+    {
+      "id": "10289",
+      "name": "Sofosbuvir"
+    },
+    {
+      "id": "2234",
+      "name": "solifenacin"
+    },
+    {
+      "id": "5919",
+      "name": "solifenacin succinate"
+    },
+    {
+      "id": "1494",
+      "name": "solvents"
+    },
+    {
+      "id": "1496",
+      "name": "somatostatin"
+    },
+    {
+      "id": "3674",
+      "name": "somatropin"
+    },
+    {
+      "id": "1497",
+      "name": "somatropin (hGH)"
+    },
+    {
+      "id": "10555",
+      "name": "sonidegib phosphate"
+    },
+    {
+      "id": "5591",
+      "name": "sorafenib"
+    },
+    {
+      "id": "4221",
+      "name": "sorbitol, liquid (crystallising)"
+    },
+    {
+      "id": "10960",
+      "name": "sotagliflozin"
+    },
+    {
+      "id": "1499",
+      "name": "sotalol"
+    },
+    {
+      "id": "9194",
+      "name": "soya lecithin"
+    },
+    {
+      "id": "5925",
+      "name": "soya-bean oil"
+    },
+    {
+      "id": "5128",
+      "name": "soya-bean oil, refined"
+    },
+    {
+      "id": "10757",
+      "name": "spheroids of human autologous matrix-associated chondrocytes"
+    },
+    {
+      "id": "1504",
+      "name": "spiramycin"
+    },
+    {
+      "id": "1509",
+      "name": "spironolactone"
+    },
+    {
+      "id": "4349",
+      "name": "St. john’s wort"
+    },
+    {
+      "id": "7384",
+      "name": "Standardized Bacterial Culture Suspension (BCS) (Esherichia coli, Phenol liquified)"
+    },
+    {
+      "id": "4040",
+      "name": "stannous chloride dihydrate"
+    },
+    {
+      "id": "5083",
+      "name": "Star anise"
+    },
+    {
+      "id": "1511",
+      "name": "stavudine"
+    },
+    {
+      "id": "2224",
+      "name": "stearic acid"
+    },
+    {
+      "id": "5587",
+      "name": "stiripentol"
+    },
+    {
+      "id": "1512",
+      "name": "streptokinase"
+    },
+    {
+      "id": "7393",
+      "name": "strontium (89Sr) chloride injection"
+    },
+    {
+      "id": "3687",
+      "name": "Strontium ranelate"
+    },
+    {
+      "id": "1518",
+      "name": "sucralfate"
+    },
+    {
+      "id": "4997",
+      "name": "sufentanil"
+    },
+    {
+      "id": "1519",
+      "name": "sufentanil citrate"
+    },
+    {
+      "id": "7383",
+      "name": "sugammadex"
+    },
+    {
+      "id": "2342",
+      "name": "sulbactam"
+    },
+    {
+      "id": "4088",
+      "name": "sulesomab"
+    },
+    {
+      "id": "1464",
+      "name": "sulfadiazine silver"
+    },
+    {
+      "id": "1522",
+      "name": "sulfadimidine"
+    },
+    {
+      "id": "1525",
+      "name": "sulfamethoxazole"
+    },
+    {
+      "id": "1528",
+      "name": "sulfasalazine"
+    },
+    {
+      "id": "3034",
+      "name": "sulfogaiacol"
+    },
+    {
+      "id": "3717",
+      "name": "sulfur"
+    },
+    {
+      "id": "3719",
+      "name": "Sulfur hexafluoride"
+    },
+    {
+      "id": "9500",
+      "name": "Sulfuric acid"
+    },
+    {
+      "id": "1534",
+      "name": "sulodexide"
+    },
+    {
+      "id": "4112",
+      "name": "sulphuric acid"
+    },
+    {
+      "id": "1536",
+      "name": "sulpiride"
+    },
+    {
+      "id": "1537",
+      "name": "sulprostone"
+    },
+    {
+      "id": "1538",
+      "name": "sultamicillin"
+    },
+    {
+      "id": "1539",
+      "name": "sultiame"
+    },
+    {
+      "id": "1540",
+      "name": "sumatriptan"
+    },
+    {
+      "id": "5625",
+      "name": "sunitinib"
+    },
+    {
+      "id": "1542",
+      "name": "surfactant (natural phospholipids)"
+    },
+    {
+      "id": "10417",
+      "name": "Susoctocog alfa"
+    },
+    {
+      "id": "9215",
+      "name": "Symphytum officinale"
+    },
+    {
+      "id": "1546",
+      "name": "tacalcitol"
+    },
+    {
+      "id": "1547",
+      "name": "tacrolimus"
+    },
+    {
+      "id": "3726",
+      "name": "Tadalafil"
+    },
+    {
+      "id": "10283",
+      "name": "Tafamidis"
+    },
+    {
+      "id": "2290",
+      "name": "tafluprost"
+    },
+    {
+      "id": "10965",
+      "name": "talazoparib"
+    },
+    {
+      "id": "5429",
+      "name": "talc"
+    },
+    {
+      "id": "10557",
+      "name": "talimogene laherparepvec"
+    },
+    {
+      "id": "4550",
+      "name": "tamoxifen"
+    },
+    {
+      "id": "1548",
+      "name": "tamoxifen citrate"
+    },
+    {
+      "id": "1549",
+      "name": "tamsulosin"
+    },
+    {
+      "id": "8795",
+      "name": "tamsulosin hydrochloride"
+    },
+    {
+      "id": "5926",
+      "name": "tapentadol"
+    },
+    {
+      "id": "10558",
+      "name": "tasimelteon"
+    },
+    {
+      "id": "3731",
+      "name": "Tasonermin"
+    },
+    {
+      "id": "7075",
+      "name": "taurin"
+    },
+    {
+      "id": "7441",
+      "name": "tauroselcholic (75Se) acid"
+    },
+    {
+      "id": "1554",
+      "name": "tazobactam"
+    },
+    {
+      "id": "3753",
+      "name": "Technetium (99mTc) mertiatide injection"
+    },
+    {
+      "id": "7401",
+      "name": "technetium Tc 99m oxidronate injection"
+    },
+    {
+      "id": "7443",
+      "name": "Technetium(99mTc) Pentetate Injection"
+    },
+    {
+      "id": "7399",
+      "name": "Technetium-99m tin pyrophosphate"
+    },
+    {
+      "id": "10368",
+      "name": "tedizolid phosphate"
+    },
+    {
+      "id": "9562",
+      "name": "teduglutide"
+    },
+    {
+      "id": "1555",
+      "name": "tegafur"
+    },
+    {
+      "id": "3778",
+      "name": "teicoplanin"
+    },
+    {
+      "id": "9343",
+      "name": "telaprevir"
+    },
+    {
+      "id": "5929",
+      "name": "telavancin"
+    },
+    {
+      "id": "5619",
+      "name": "telbivudine"
+    },
+    {
+      "id": "3779",
+      "name": "Telithromycin"
+    },
+    {
+      "id": "1558",
+      "name": "telmisartan"
+    },
+    {
+      "id": "10766",
+      "name": "telotristat"
+    },
+    {
+      "id": "1559",
+      "name": "temazepam"
+    },
+    {
+      "id": "2206",
+      "name": "temoporfin"
+    },
+    {
+      "id": "1560",
+      "name": "temozolomide"
+    },
+    {
+      "id": "5930",
+      "name": "temsirolimus"
+    },
+    {
+      "id": "2182",
+      "name": "tenecteplase"
+    },
+    {
+      "id": "3785",
+      "name": "Tenofovir"
+    },
+    {
+      "id": "10463",
+      "name": "tenofovir alafenamide"
+    },
+    {
+      "id": "10639",
+      "name": "tenofovir alafenamide fumarate"
+    },
+    {
+      "id": "8199",
+      "name": "tenofovir disoproxil fumarate"
+    },
+    {
+      "id": "10718",
+      "name": "tenofovir disoproxil maleate"
+    },
+    {
+      "id": "10723",
+      "name": "tenofovir disoproxil phosphate"
+    },
+    {
+      "id": "10351",
+      "name": "tenofovir disoproxil succinate"
+    },
+    {
+      "id": "1563",
+      "name": "terazosin"
+    },
+    {
+      "id": "1564",
+      "name": "terbinafine"
+    },
+    {
+      "id": "7771",
+      "name": "terbinafine hydrochloride"
+    },
+    {
+      "id": "1566",
+      "name": "terbutaline"
+    },
+    {
+      "id": "5931",
+      "name": "teriflunomide"
+    },
+    {
+      "id": "3788",
+      "name": "Teriparatide"
+    },
+    {
+      "id": "1569",
+      "name": "terlipressin"
+    },
+    {
+      "id": "9328",
+      "name": "Terpin"
+    },
+    {
+      "id": "1570",
+      "name": "testosterone"
+    },
+    {
+      "id": "3794",
+      "name": "Tetanus toxoid"
+    },
+    {
+      "id": "4078",
+      "name": "Tetanus vaccine (adsorbed)"
+    },
+    {
+      "id": "3795",
+      "name": "Tetrabenazine"
+    },
+    {
+      "id": "1571",
+      "name": "tetracaine"
+    },
+    {
+      "id": "1573",
+      "name": "tetracor-decaoxygen anion complex"
+    },
+    {
+      "id": "1575",
+      "name": "tetracycline"
+    },
+    {
+      "id": "4340",
+      "name": "tetracycline hydrochloride"
+    },
+    {
+      "id": "8837",
+      "name": "tetrakis [(2-methoxy-2-methylpropyl-1 isocyanide)copper(I)] tetrafluoroborate"
+    },
+    {
+      "id": "7781",
+      "name": "tetrizolin hydrochloride"
+    },
+    {
+      "id": "7442",
+      "name": "tetrofosmin"
+    },
+    {
+      "id": "4010",
+      "name": "Tetryzoline"
+    },
+    {
+      "id": "10390",
+      "name": "Teucrium marum"
+    },
+    {
+      "id": "10880",
+      "name": "tezacaftor"
+    },
+    {
+      "id": "3799",
+      "name": "Thalidomide"
+    },
+    {
+      "id": "7402",
+      "name": "thallous (201Tl) chloride injection"
+    },
+    {
+      "id": "1583",
+      "name": "theophylline"
+    },
+    {
+      "id": "5214",
+      "name": "theophylline-ethylenediamine"
+    },
+    {
+      "id": "1585",
+      "name": "thiamazole"
+    },
+    {
+      "id": "6368",
+      "name": "Thiamine"
+    },
+    {
+      "id": "1586",
+      "name": "thiamine (vit B1)"
+    },
+    {
+      "id": "8603",
+      "name": "thiamine hydrochloride"
+    },
+    {
+      "id": "1589",
+      "name": "thiocolchicoside"
+    },
+    {
+      "id": "3809",
+      "name": "Thiotepa"
+    },
+    {
+      "id": "3951",
+      "name": "Threonine"
+    },
+    {
+      "id": "1593",
+      "name": "thrombin"
+    },
+    {
+      "id": "10097",
+      "name": "Thuja occidentalis"
+    },
+    {
+      "id": "4308",
+      "name": "thyme"
+    },
+    {
+      "id": "4851",
+      "name": "Thyme oil"
+    },
+    {
+      "id": "2198",
+      "name": "thyrotropin alfa"
+    },
+    {
+      "id": "1600",
+      "name": "tianeptine"
+    },
+    {
+      "id": "1601",
+      "name": "tiapride"
+    },
+    {
+      "id": "1603",
+      "name": "tibolone"
+    },
+    {
+      "id": "7290",
+      "name": "ticagrelor"
+    },
+    {
+      "id": "5789",
+      "name": "tick-borne encephalitis vaccine (inactivated)"
+    },
+    {
+      "id": "1604",
+      "name": "ticlopidine"
+    },
+    {
+      "id": "5627",
+      "name": "tigecycline"
+    },
+    {
+      "id": "3823",
+      "name": "tilactase"
+    },
+    {
+      "id": "10886",
+      "name": "tildrakizumab"
+    },
+    {
+      "id": "10559",
+      "name": "tilmanocept"
+    },
+    {
+      "id": "1607",
+      "name": "timolol"
+    },
+    {
+      "id": "5183",
+      "name": "timolol maleate"
+    },
+    {
+      "id": "9134",
+      "name": "Tinctura thymi"
+    },
+    {
+      "id": "1609",
+      "name": "tinidazole"
+    },
+    {
+      "id": "1611",
+      "name": "tioctic acid"
+    },
+    {
+      "id": "3832",
+      "name": "Tiotropium bromide"
+    },
+    {
+      "id": "10442",
+      "name": "tipiracil"
+    },
+    {
+      "id": "5615",
+      "name": "tipranavir"
+    },
+    {
+      "id": "1613",
+      "name": "tirofiban"
+    },
+    {
+      "id": "10883",
+      "name": "tisagenlecleucel"
+    },
+    {
+      "id": "1614",
+      "name": "tissue adhesive"
+    },
+    {
+      "id": "10759",
+      "name": "tivozanib"
+    },
+    {
+      "id": "3839",
+      "name": "Tizanidine"
+    },
+    {
+      "id": "1618",
+      "name": "tobramycin"
+    },
+    {
+      "id": "5941",
+      "name": "tocilizumab"
+    },
+    {
+      "id": "8447",
+      "name": "tocofersolan"
+    },
+    {
+      "id": "10731",
+      "name": "tofacitinib"
+    },
+    {
+      "id": "1621",
+      "name": "tofisopam"
+    },
+    {
+      "id": "1624",
+      "name": "tolcapone"
+    },
+    {
+      "id": "1627",
+      "name": "tolnaftate"
+    },
+    {
+      "id": "7385",
+      "name": "tolperisone"
+    },
+    {
+      "id": "8683",
+      "name": "tolperisone hydrochloride"
+    },
+    {
+      "id": "1630",
+      "name": "tolterodine"
+    },
+    {
+      "id": "5942",
+      "name": "tolvaptan"
+    },
+    {
+      "id": "1631",
+      "name": "topiramate"
+    },
+    {
+      "id": "1632",
+      "name": "topotecan"
+    },
+    {
+      "id": "1633",
+      "name": "toremifene"
+    },
+    {
+      "id": "3850",
+      "name": "Trabectedin"
+    },
+    {
+      "id": "1634",
+      "name": "tramadol"
+    },
+    {
+      "id": "8454",
+      "name": "tramadol hydrochloride"
+    },
+    {
+      "id": "1636",
+      "name": "tramazoline"
+    },
+    {
+      "id": "10394",
+      "name": "trametinib"
+    },
+    {
+      "id": "1637",
+      "name": "trandolapril"
+    },
+    {
+      "id": "1639",
+      "name": "tranexamic acid"
+    },
+    {
+      "id": "1642",
+      "name": "trastuzumab"
+    },
+    {
+      "id": "10167",
+      "name": "trastuzumab emtansine"
+    },
+    {
+      "id": "2139",
+      "name": "travoprost"
+    },
+    {
+      "id": "1643",
+      "name": "trazodone"
+    },
+    {
+      "id": "7882",
+      "name": "trazodone hydrochloride"
+    },
+    {
+      "id": "3853",
+      "name": "Treosulfan"
+    },
+    {
+      "id": "5638",
+      "name": "treprostinil"
+    },
+    {
+      "id": "1644",
+      "name": "tretinoin"
+    },
+    {
+      "id": "1646",
+      "name": "triamcinolone"
+    },
+    {
+      "id": "7884",
+      "name": "triamcinolone acetonide"
+    },
+    {
+      "id": "10762",
+      "name": "trientine"
+    },
+    {
+      "id": "1658",
+      "name": "trifluridine"
+    },
+    {
+      "id": "1659",
+      "name": "triflusal"
+    },
+    {
+      "id": "1663",
+      "name": "trimetazidine"
+    },
+    {
+      "id": "5283",
+      "name": "Trimetazidine dihydrochloride"
+    },
+    {
+      "id": "1665",
+      "name": "trimethoprim"
+    },
+    {
+      "id": "1667",
+      "name": "trimipramine"
+    },
+    {
+      "id": "1669",
+      "name": "triptorelin"
+    },
+    {
+      "id": "1670",
+      "name": "tromantadine"
+    },
+    {
+      "id": "1671",
+      "name": "trometamol"
+    },
+    {
+      "id": "1672",
+      "name": "tropicamide"
+    },
+    {
+      "id": "4776",
+      "name": "Trospium chloride"
+    },
+    {
+      "id": "10336",
+      "name": "Tryglycerides, medium chain"
+    },
+    {
+      "id": "1677",
+      "name": "trypsin"
+    },
+    {
+      "id": "3879",
+      "name": "Tryptophan"
+    },
+    {
+      "id": "9848",
+      "name": "Tuaminoheptane sulphate"
+    },
+    {
+      "id": "6566",
+      "name": "Turmeric, javanese"
+    },
+    {
+      "id": "10284",
+      "name": "turoctocog alfa"
+    },
+    {
+      "id": "10964",
+      "name": "turoctocog alfa pegol"
+    },
+    {
+      "id": "7028",
+      "name": "Turpentine oil, rectified"
+    },
+    {
+      "id": "3954",
+      "name": "Tyrosine"
+    },
+    {
+      "id": "1680",
+      "name": "tyrothricin"
+    },
+    {
+      "id": "6957",
+      "name": "Ubidecarenone"
+    },
+    {
+      "id": "366",
+      "name": "ubidecarenone/coenzym Q10"
+    },
+    {
+      "id": "6813",
+      "name": "ulipristal"
+    },
+    {
+      "id": "10325",
+      "name": "ulipristal acetate"
+    },
+    {
+      "id": "10291",
+      "name": "umeclidinium bromide"
+    },
+    {
+      "id": "408",
+      "name": "undecylenic acid"
+    },
+    {
+      "id": "1681",
+      "name": "urapidil"
+    },
+    {
+      "id": "2085",
+      "name": "urea"
+    },
+    {
+      "id": "239",
+      "name": "urea peroxide"
+    },
+    {
+      "id": "3895",
+      "name": "Urofollitropin"
+    },
+    {
+      "id": "1683",
+      "name": "urokinase"
+    },
+    {
+      "id": "1684",
+      "name": "ursodeoxycholic acid"
+    },
+    {
+      "id": "7378",
+      "name": "ustekinumab"
+    },
+    {
+      "id": "10882",
+      "name": "vaborbactam"
+    },
+    {
+      "id": "4063",
+      "name": "Vaccina, Cholera, oral"
+    },
+    {
+      "id": "10685",
+      "name": "vakcina"
+    },
+    {
+      "id": "2116",
+      "name": "vakcina (bakteriális)"
+    },
+    {
+      "id": "2256",
+      "name": "vakcina (kombinált)"
+    },
+    {
+      "id": "2121",
+      "name": "vakcina (virális)"
+    },
+    {
+      "id": "1685",
+      "name": "valaciclovir"
+    },
+    {
+      "id": "2205",
+      "name": "valdecoxib"
+    },
+    {
+      "id": "611",
+      "name": "valerian dry aqueous extract"
+    },
+    {
+      "id": "612",
+      "name": "valerian dry hydroalcoholic extract"
+    },
+    {
+      "id": "5370",
+      "name": "valerian root"
+    },
+    {
+      "id": "2183",
+      "name": "valganciclovir"
+    },
+    {
+      "id": "8087",
+      "name": "valganciclovir hydrochloride"
+    },
+    {
+      "id": "3945",
+      "name": "Valine"
+    },
+    {
+      "id": "4115",
+      "name": "Valproic Acid"
+    },
+    {
+      "id": "1687",
+      "name": "valsartan"
+    },
+    {
+      "id": "1689",
+      "name": "vancomycin"
+    },
+    {
+      "id": "5951",
+      "name": "vandetanib"
+    },
+    {
+      "id": "2200",
+      "name": "vardenafil"
+    },
+    {
+      "id": "5637",
+      "name": "varenicline"
+    },
+    {
+      "id": "2335",
+      "name": "vas-hexacianoferrat (berlini kék)"
+    },
+    {
+      "id": "10290",
+      "name": "vedolizumab"
+    },
+    {
+      "id": "9341",
+      "name": "velaglucerase alfa"
+    },
+    {
+      "id": "10827",
+      "name": "velmanase alfa"
+    },
+    {
+      "id": "10711",
+      "name": "velpatasvir"
+    },
+    {
+      "id": "9497",
+      "name": "Vemurafenib"
+    },
+    {
+      "id": "10712",
+      "name": "venetoclax"
+    },
+    {
+      "id": "1691",
+      "name": "venlafaxine"
+    },
+    {
+      "id": "1693",
+      "name": "verapamil"
+    },
+    {
+      "id": "6574",
+      "name": "Verbena herb"
+    },
+    {
+      "id": "5952",
+      "name": "vernakalant"
+    },
+    {
+      "id": "1694",
+      "name": "verteporfin"
+    },
+    {
+      "id": "10309",
+      "name": "Vespula toxin"
+    },
+    {
+      "id": "10869",
+      "name": "vestronidase alfa"
+    },
+    {
+      "id": "1695",
+      "name": "vigabatrin"
+    },
+    {
+      "id": "10169",
+      "name": "vilanterol"
+    },
+    {
+      "id": "10642",
+      "name": "vilanterol trifenatate"
+    },
+    {
+      "id": "5953",
+      "name": "vildagliptin"
+    },
+    {
+      "id": "1696",
+      "name": "vinblastine"
+    },
+    {
+      "id": "1698",
+      "name": "vincristine"
+    },
+    {
+      "id": "10643",
+      "name": "vinflunine ditartrate"
+    },
+    {
+      "id": "1699",
+      "name": "vinorelbine"
+    },
+    {
+      "id": "1700",
+      "name": "vinpocetin"
+    },
+    {
+      "id": "9856",
+      "name": "vismodegib"
+    },
+    {
+      "id": "4679",
+      "name": "Vitamin A"
+    },
+    {
+      "id": "4889",
+      "name": "Vitamin A concentrate (oily form), synthetic"
+    },
+    {
+      "id": "10776",
+      "name": "Vitamin A palmitate"
+    },
+    {
+      "id": "6341",
+      "name": "Vitamin A palmiticum"
+    },
+    {
+      "id": "5957",
+      "name": "vitamin D"
+    },
+    {
+      "id": "1703",
+      "name": "vitamins"
+    },
+    {
+      "id": "7140",
+      "name": "Vitis viniferae folii extr."
+    },
+    {
+      "id": "10958",
+      "name": "volanesorsen"
+    },
+    {
+      "id": "10868",
+      "name": "vonicog alfa"
+    },
+    {
+      "id": "10561",
+      "name": "vorapaxar sulfate"
+    },
+    {
+      "id": "10878",
+      "name": "voretigene neparvovec"
+    },
+    {
+      "id": "2143",
+      "name": "voriconazole"
+    },
+    {
+      "id": "10276",
+      "name": "Vortioxetine"
+    },
+    {
+      "id": "4069",
+      "name": "Votumumab"
+    },
+    {
+      "id": "10760",
+      "name": "voxilaprevir"
+    },
+    {
+      "id": "1708",
+      "name": "warfarin"
+    },
+    {
+      "id": "4732",
+      "name": "Water for injections"
+    },
+    {
+      "id": "99",
+      "name": "Water purified"
+    },
+    {
+      "id": "4197",
+      "name": "White horehound"
+    },
+    {
+      "id": "4897",
+      "name": "Wormwood"
+    },
+    {
+      "id": "1710",
+      "name": "xylometazoline"
+    },
+    {
+      "id": "4155",
+      "name": "Xylometazoline Hydrochloride"
+    },
+    {
+      "id": "5211",
+      "name": "Yarrow"
+    },
+    {
+      "id": "4095",
+      "name": "Yttrium (90Y) Chloride"
+    },
+    {
+      "id": "1712",
+      "name": "zafirlukast"
+    },
+    {
+      "id": "1714",
+      "name": "zaleplon"
+    },
+    {
+      "id": "3931",
+      "name": "Zanamivir"
+    },
+    {
+      "id": "9195",
+      "name": "Zedoaria rhizome"
+    },
+    {
+      "id": "3932",
+      "name": "Ziconotide"
+    },
+    {
+      "id": "1716",
+      "name": "zidovudine"
+    },
+    {
+      "id": "6568",
+      "name": "Zinc"
+    },
+    {
+      "id": "3934",
+      "name": "Zinc acetate, basic"
+    },
+    {
+      "id": "5699",
+      "name": "zinc hyaluronate"
+    },
+    {
+      "id": "4990",
+      "name": "Zinc oxide"
+    },
+    {
+      "id": "6698",
+      "name": "Zinc sulphate heptahydrate"
+    },
+    {
+      "id": "10111",
+      "name": "Zincum metallicum"
+    },
+    {
+      "id": "1723",
+      "name": "ziprasidone"
+    },
+    {
+      "id": "7716",
+      "name": "ziprasidone hydrochloride"
+    },
+    {
+      "id": "2195",
+      "name": "zofenopril calcium"
+    },
+    {
+      "id": "1724",
+      "name": "zoledronic acid"
+    },
+    {
+      "id": "10647",
+      "name": "zoledronic acid monohydrate"
+    },
+    {
+      "id": "1725",
+      "name": "zolmitriptan"
+    },
+    {
+      "id": "1726",
+      "name": "zolpidem"
+    },
+    {
+      "id": "3942",
+      "name": "Zonisamide"
+    },
+    {
+      "id": "1727",
+      "name": "zopiclone"
+    },
+    {
+      "id": "1729",
+      "name": "zuclopenthixol"
+    },
+    {
+      "id": "7391",
+      "name": "[13C] Carbamidum"
+    },
+    {
+      "id": "7392",
+      "name": "[14C] Carbamidum"
+    },
+    {
+      "id": "10939",
+      "name": "[18]Fluoroethyl-L-tyrosine"
+    },
+    {
+      "id": "7395",
+      "name": "[90Y]-Ethylenediamine tetramethylene phosphonate"
+    },
+    {
+      "id": "7397",
+      "name": "[I123]-m-Iodo-benzyl-guanidinum"
+    }
+  ]
+}

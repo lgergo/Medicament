@@ -8,16 +8,17 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder> {
     private List<String> dataset;
     private boolean isClickEnabled;
     private Context context;
-    private Utils utils;
+    private IOManager ioManager;
     private String type;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
@@ -34,12 +35,13 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
         dataset = myDataset;
         this.isClickEnabled = isClickEnabled;
         this.context = context;
-        utils = new Utils(context);
+        ioManager = new IOManager(context);
         this.type = adapterType;
     }
 
+    @NonNull
     @Override
-    public ResultAdapter.ViewHolder onCreateViewHolder(final ViewGroup parent, int viewType) {
+    public ResultAdapter.ViewHolder onCreateViewHolder(@NonNull final ViewGroup parent, int viewType) {
         TextView v = (TextView) LayoutInflater.from(context)
                 .inflate(R.layout.listitem, parent, false);
 
@@ -48,15 +50,23 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
             vh.listItemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
-                    if (type.equals(Constants.AdapterType_0)) {
-                        String clickedName = dataset.get(vh.getAdapterPosition()).toLowerCase();
-                        ArrayList<String> idResults = utils.searchMedicamentIdByName(clickedName);
-                        Intent i = new Intent(context, ResultActivity.class);
-                        i.putExtra(Constants.Intent_ResultList, idResults);
-                        context.startActivity(i);
-                    }
-                    if (type.equals(Constants.AdapterType_1)) {
-                        openWebPage(dataset.get(vh.getAdapterPosition()));
+                    switch (type) {
+                        case Constants.AdapterType_ImageResult:
+                            String clickedName = dataset.get(vh.getAdapterPosition()).toLowerCase();
+                            HashMap<String, String> idResults = ioManager.searchMedicamentIdByName(clickedName);
+                            Intent i = new Intent(context, ResultActivity.class);
+                            i.putExtra(Constants.Intent_ResultList, idResults);
+                            i.putExtra(Constants.Intent_SearchedText, clickedName);
+                            context.startActivity(i);
+                            break;
+                        case Constants.AdapterType_MedicamentSearchResult:
+                            String clickedKey = dataset.get(vh.getAdapterPosition()).toLowerCase();
+                            String value = ioManager.getValueByKey(clickedKey);
+                            openWebPage(value);
+                            break;
+                        case Constants.AdapterType_SubstanceSearchResult:
+                            break;
+
                     }
                 }
             });
@@ -66,14 +76,14 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
 
     @Override
     public void onBindViewHolder(ViewHolder holder, int position) {
-        holder.listItemView.setText(dataset.get(position));
+        String text = dataset.get(position);
+        holder.listItemView.setText(text);
     }
 
     @Override
     public int getItemCount() {
         return dataset.size();
     }
-
 
     private void openWebPage(String extraUrl) {
         String url = "https://ogyei.gov.hu/gyogyszeradatbazis&action=show_details&item=";
@@ -84,5 +94,4 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
             context.startActivity(intent);
         }
     }
-
 }
