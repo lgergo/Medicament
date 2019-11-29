@@ -2,7 +2,6 @@ package com.yevsp8.medicament;
 
 import android.content.Context;
 import android.content.Intent;
-import android.net.Uri;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -11,15 +10,17 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import java.util.HashMap;
+import com.yevsp8.medicament.data.Repository;
+
 import java.util.List;
 
 public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder> {
     private List<String> dataset;
     private boolean isClickEnabled;
     private Context context;
-    private IOManager ioManager;
+    private Repository repo;
     private String type;
+    private IOManager ioManager;
 
     static class ViewHolder extends RecyclerView.ViewHolder {
 
@@ -35,8 +36,10 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
         dataset = myDataset;
         this.isClickEnabled = isClickEnabled;
         this.context = context;
-        ioManager = new IOManager(context);
+        repo=Repository.getInstance(context);
         this.type = adapterType;
+
+        ioManager=IOManager.getInstance(context);
     }
 
     @NonNull
@@ -53,20 +56,15 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
                     switch (type) {
                         case Constants.AdapterType_ImageResult:
                             String clickedName = dataset.get(vh.getAdapterPosition()).toLowerCase();
-                            HashMap<String, String> idResults = ioManager.searchMedicamentIdByName(clickedName);
-                            Intent i = new Intent(context, ResultActivity.class);
-                            i.putExtra(Constants.Intent_ResultList, idResults);
-                            i.putExtra(Constants.Intent_SearchedText, clickedName);
-                            context.startActivity(i);
+                            Intent intent = new Intent(context, ResultActivity.class);
+                            intent.putExtra(Constants.Intent_SearchedText, clickedName);
+                            context.startActivity(intent);
                             break;
-                        case Constants.AdapterType_MedicamentSearchResult:
-                            String clickedKey = dataset.get(vh.getAdapterPosition()).toLowerCase();
-                            String value = ioManager.getValueByKey(clickedKey);
-                            openWebPage(value);
+                        case Constants.AdapterType_SearchResult:
+                            String clickedN = dataset.get(vh.getAdapterPosition()).toLowerCase();
+                            String value = repo.getMedicamentOgyiKeyByName(clickedN);
+                            ioManager.openWebPage(value);
                             break;
-                        case Constants.AdapterType_SubstanceSearchResult:
-                            break;
-
                     }
                 }
             });
@@ -85,13 +83,4 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
         return dataset.size();
     }
 
-    private void openWebPage(String extraUrl) {
-        String url = "https://ogyei.gov.hu/gyogyszeradatbazis&action=show_details&item=";
-        url += extraUrl;
-        Uri webpage = Uri.parse(url);
-        Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
-        if (intent.resolveActivity(context.getPackageManager()) != null) {
-            context.startActivity(intent);
-        }
-    }
 }

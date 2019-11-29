@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
     private SurfaceView surfaceView;
     private CameraSource cameraSource;
     private TextView textView;
-    private AppCompatButton pauseButton;
 
     private static final String TAG = "MainActivity";
     private static final int RequestPermissionID = 111;
@@ -49,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         surfaceView = findViewById(R.id.surfaceView);
         textView = findViewById(R.id.textView);
-        pauseButton = findViewById(R.id.pauseRecognitionButton);
+        AppCompatButton pauseButton = findViewById(R.id.pauseRecognitionButton);
         pauseButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 pauseButtonOnClick();
@@ -101,10 +100,6 @@ public class MainActivity extends AppCompatActivity {
                     .setRequestedFps(1.0f)
                     .build();
 
-            /**
-             * Add call back to SurfaceView and check if camera permission is granted.
-             * If permission is granted we can start our cameraSource and pass it to surfaceView
-             */
             surfaceView.getHolder().addCallback(new SurfaceHolder.Callback() {
                 @Override
                 public void surfaceCreated(SurfaceHolder holder) {
@@ -139,10 +134,6 @@ public class MainActivity extends AppCompatActivity {
                 public void release() {
                 }
 
-                /**
-                 * Detect all the text from camera using TextBlock and the values into a stringBuilder
-                 * which will then be set to the textView.
-                 * */
                 @Override
                 public void receiveDetections(Detector.Detections<TextBlock> detections) {
 

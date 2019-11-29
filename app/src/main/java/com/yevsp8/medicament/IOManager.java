@@ -1,75 +1,32 @@
 package com.yevsp8.medicament;
 
 import android.content.Context;
-
-import org.json.JSONArray;
-import org.json.JSONException;
-import org.json.JSONObject;
-
-import java.io.IOException;
-import java.io.InputStream;
-import java.nio.charset.StandardCharsets;
-import java.util.HashMap;
-import java.util.Map;
+import android.content.Intent;
+import android.net.Uri;
 
 class IOManager {
-
-    private static HashMap<String, String> medicaments = new HashMap<>();
-    //private static HashMap<String,String> substances=new HashMap<>();
+    private static IOManager instance;
     private Context context;
 
-    IOManager(Context context) {
-        this.context = context;
-        if (medicaments.size() == 0) {
-            loadJsonToMap(Constants.Asset_MedicamentsFileName, "medicaments", medicaments);
+    static IOManager getInstance(Context context)
+    {
+        if(instance==null)
+        {
+            instance=new IOManager();
+            instance.context=context;
         }
-//        if(substances.size()==0) {
-//            loadJsonToMap(Constants.Asset_SubstancesFileName,"substances",substances);
-//        }
+        return  instance;
     }
 
-    String getValueByKey(String key) {
-        return medicaments.get(key);
-    }
+    private IOManager(){}
 
-    HashMap<String, String> searchMedicamentIdByName(String name) {
-        HashMap<String, String> results = new HashMap<>();
-        for (Map.Entry<String, String> entries : medicaments.entrySet()) {
-            if (entries.getKey().contains(name)) {
-                results.put(entries.getKey(), entries.getValue());
-            }
-        }
-        return results;
-    }
-
-    private void loadJsonToMap(String fileName, String jsonRootObject, HashMap<String, String> map) {
-
-        String json;
-        try {
-            InputStream is = context.getAssets().open(fileName);
-            int size = is.available();
-            byte[] buffer = new byte[size];
-            is.read(buffer);
-            is.close();
-            json = new String(buffer, StandardCharsets.UTF_8);
-        } catch (IOException ex) {
-            ex.printStackTrace();
-            return;
-        }
-        try {
-            JSONObject obj = new JSONObject(json);
-            JSONArray m_jArry = obj.getJSONArray(jsonRootObject);
-
-            for (int i = 0; i < m_jArry.length(); i++) {
-                JSONObject jo_inside = m_jArry.getJSONObject(i);
-
-                String name = jo_inside.getString("name");
-                String id = jo_inside.getString("id");
-
-                map.put(name, id);
-            }
-        } catch (JSONException e) {
-            e.printStackTrace();
+    void openWebPage(String extraUrl) {
+        String url = Constants.BaseUrlForOgyei;
+        url += extraUrl;
+        Uri webpage = Uri.parse(url);
+        Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
+        if (intent.resolveActivity(context.getPackageManager()) != null) {
+            context.startActivity(intent);
         }
     }
 }
