@@ -39,7 +39,7 @@ public class ResultAdapter extends RecyclerView.Adapter<ResultAdapter.ViewHolder
         repo=Repository.getInstance(context);
         this.type = adapterType;
 
-        ioManager=IOManager.getInstance(context);
+        ioManager=new IOManager(context);
     }
 
     @NonNull

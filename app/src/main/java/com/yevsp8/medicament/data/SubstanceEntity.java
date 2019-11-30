@@ -20,8 +20,8 @@ public class SubstanceEntity {
     }
 
     @PrimaryKey(autoGenerate = false)
-    public int id;
-    public String name;
+    private int id;
+    private String name;
     @TypeConverters(StringTypeConverter.class)
     private List<String> medicamentList;
 

@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">MediCam</string>
     <string name="emptyMessage">Nincs felimsert szöveg.</string>
-    <string name="text_titleForSearchMethods">Koppintson egy elemre!</string>
+    <string name="text_titleForMedicamentList">Koppintson egy elemre!</string>
+    <string name="text_titleForSubstanceList">Keresett hatóanyag szempontjából egyenértékű gyógyszerek</string>
     <string name="button_stop">Állj</string>
-    <string name="switch_substanceSearch">Hatóanyag</string>
+    <string name="button_start">Indít</string>
+    <string name="switch_substanceSearch">Hatóanyagra kerestem</string>
     <string name="search_text">A keresett szöveg: \n<b>%1$s</b></string>
+
 </resources>

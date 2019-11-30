@@ -18,12 +18,13 @@ import java.util.List;
 
 public class ResultActivity extends AppCompatActivity {
 
-    protected RecyclerView.Adapter adapter;
-    RecyclerView recyclerView_searchResult;
-    boolean switch_SearchInSubstances = false;
-    TextView searchText;
-    Repository repo;
-    String intentSearchText="";
+    private RecyclerView.Adapter adapter;
+    private RecyclerView recyclerView_searchResult;
+    private boolean switch_SearchInSubstances = false;
+    private TextView searchText;
+    private TextView resultTitle;
+    private Repository repo;
+    private String intentSearchText="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,11 +40,11 @@ public class ResultActivity extends AppCompatActivity {
         recyclerView_searchResult.setHasFixedSize(true);
         recyclerView_searchResult.setLayoutManager(mLayoutManager);
 
-        //TODO klikkelt sor alapján megtipplni hogy gyógyszer vagy hatóanag
-        setMedicamentResults();
-
         searchText = findViewById(R.id.textView_search_text);
         searchText.setText(String.format(getResources().getString(R.string.search_text), intentSearchText));
+        resultTitle = findViewById(R.id.textView_result_title);
+
+        setMedicamentResults();
 
         Switch sw = findViewById(R.id.switch_substance);
         sw.setOnClickListener(new View.OnClickListener() {
@@ -63,7 +64,6 @@ public class ResultActivity extends AppCompatActivity {
         }
     }
 
-    //TODO menteni hogy ne kelljen minden váltásnál újra lekérdezni
     void setMedicamentResults()
     {
         List<MedicamentEntity> med=repo.getMedicamentListBySimilarName(intentSearchText);
@@ -73,9 +73,9 @@ public class ResultActivity extends AppCompatActivity {
         }
         adapter=new ResultAdapter(nameList,true,Constants.AdapterType_SearchResult,this);
         recyclerView_searchResult.setAdapter(adapter);
+        resultTitle.setText(getResources().getText(R.string.text_titleForMedicamentList));
     }
 
-    //TODO adapter létrehozások nélkül
     void setSubstanceResults()
     {
         SubstanceEntity substance=repo.getSubstanceByName(intentSearchText);
@@ -88,5 +88,6 @@ public class ResultActivity extends AppCompatActivity {
             adapter = new ResultAdapter(new ArrayList<String>(), true, Constants.AdapterType_SearchResult, this);
             recyclerView_searchResult.setAdapter(adapter);
         }
+        resultTitle.setText(getResources().getText(R.string.text_titleForSubstanceList));
     }
 }

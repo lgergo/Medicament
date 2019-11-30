@@ -17,9 +17,9 @@ public class MedicamentEntity {
     }
 
     @PrimaryKey(autoGenerate = true)
-    public int id;
-    public String name;
-    public String ogyi_key;
+    private int id;
+    private String name;
+    private String ogyi_key;
 
     public int getId() {
         return id;

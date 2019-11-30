@@ -7,7 +7,7 @@
     android:layout_height="wrap_content"
     android:textAlignment="center"
     android:padding="10dp"
-    android:text="TextView"
+    android:text=""
     android:background="@color/customGrey"
     android:layout_marginBottom="3dp"/>
 

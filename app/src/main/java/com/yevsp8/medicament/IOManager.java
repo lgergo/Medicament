@@ -5,20 +5,11 @@ import android.content.Intent;
 import android.net.Uri;
 
 class IOManager {
-    private static IOManager instance;
     private Context context;
 
-    static IOManager getInstance(Context context)
-    {
-        if(instance==null)
-        {
-            instance=new IOManager();
-            instance.context=context;
-        }
-        return  instance;
+    IOManager(Context context){
+        this.context=context;
     }
-
-    private IOManager(){}
 
     void openWebPage(String extraUrl) {
         String url = Constants.BaseUrlForOgyei;

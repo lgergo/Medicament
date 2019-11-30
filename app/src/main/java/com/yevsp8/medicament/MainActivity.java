@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
 
     private RecyclerView mRecyclerView;
     private RecyclerView.Adapter mAdapter;
-    private RecyclerView.LayoutManager mLayoutManager;
     private String recognisedText;
+    private AppCompatButton pauseButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
 
         surfaceView = findViewById(R.id.surfaceView);
         textView = findViewById(R.id.textView);
-        AppCompatButton pauseButton = findViewById(R.id.pauseRecognitionButton);
+        pauseButton = findViewById(R.id.pauseRecognitionButton);
         pauseButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 pauseButtonOnClick();
@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         mRecyclerView = findViewById(R.id.recycleView);
         mRecyclerView.setHasFixedSize(true);
 
-        mLayoutManager = new LinearLayoutManager(this);
+        RecyclerView.LayoutManager mLayoutManager = new LinearLayoutManager(this);
         mRecyclerView.setLayoutManager(mLayoutManager);
 
         mAdapter = new ResultAdapter(new ArrayList<String>(), true, Constants.AdapterType_ImageResult, this);
@@ -165,6 +165,7 @@ public class MainActivity extends AppCompatActivity {
         if (IsRecognitionPaused) {
             mRecyclerView.setVisibility(View.GONE);
             textView.setVisibility(View.VISIBLE);
+            pauseButton.setText(getResources().getText(R.string.button_stop));
         } else {
             String[] textLines = recognisedText.split("\\r?\\n");
             mAdapter = new ResultAdapter(Arrays.asList(textLines), true, Constants.AdapterType_ImageResult, this);
@@ -172,6 +173,7 @@ public class MainActivity extends AppCompatActivity {
 
             mRecyclerView.setVisibility(View.VISIBLE);
             textView.setVisibility(View.GONE);
+            pauseButton.setText(getResources().getText(R.string.button_start));
         }
 
         IsRecognitionPaused = !IsRecognitionPaused;

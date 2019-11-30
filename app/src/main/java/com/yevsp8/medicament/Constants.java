@@ -10,4 +10,14 @@ public class Constants {
     public static final String Asset_SubstitutesFileName = "HelyettesithetosegiLista_mod_json.json";
     public static final String RootObject_Medicaments = "medicaments";
     public static final String RootObject_Substances = "substances";
+
+    public static final String DatabaseName="app_db";
+
+    //json files
+    public static final String MedicamentsAttribute_Name="name";
+    public static final String MedicamentsAttribute_OgyiKey="ogyi_key";
+    public static final String SubstancesAttribute_Id="Id";
+    public static final String SubstancesAttribute_Name="Name";
+    public static final String SubstancesAttribute_Replaceable="Replaceable";
+    public static final String Substances_InnerElementAttribute_Name="Name";
 }
